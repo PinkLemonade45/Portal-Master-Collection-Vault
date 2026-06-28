@@ -35,6 +35,14 @@ Current portals supported are as follows:
 - Superchargers (PS3, WiiU)
 - Imaginators (PS3, WiiU)
 
+## Portal Scanning Issues
+
+If the app isn't scanning your figures it's most likely a driver issues. I'm doing what I can to make all portals compatible but some things can be done on the user end to fix this.
+
+## Zadig
+
+Try using Zadig to change the drivers of your portal to WinUSB. Download Zadig, find your portal by going to options and selecting "List All Devices". Then find your device labelled "Spyro Porta". Then select the driver you wish to install to the portal, should be labelled as "WinUSB (v6.1.7600.16385)". Click "Replace Driver" and wait for the driver to finish installing. Once complete the portal should then succesfully work with the app. Don't worry this process won't break the original portal functionality and it should still work with the original games.
+
 ## Running A Release Build
 
 The release build is produced at:
