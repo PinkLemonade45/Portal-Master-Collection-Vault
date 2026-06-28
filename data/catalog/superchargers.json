@@ -1,0 +1,1197 @@
+[
+    {
+        "id": "fiesta",
+        "toyId": 3400,
+        "toyIdHex": "0x0D48",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Fiesta",
+        "character": "Fiesta",
+        "element": "Undead",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "frightful-fiesta",
+        "variantOf": "fiesta",
+        "toyId": 3400,
+        "toyIdHex": "0x0D48",
+        "variantId": 17685,
+        "variantIdHex": "0x4515",
+        "name": "Frightful Fiesta",
+        "character": "Fiesta",
+        "element": "Undead",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "high-volt",
+        "toyId": 3401,
+        "toyIdHex": "0x0D49",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "High Volt",
+        "character": "High Volt",
+        "element": "Tech",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "patina-high-volt",
+        "variantOf": "high-volt",
+        "toyId": 3401,
+        "toyIdHex": "0x0D49",
+        "variantId": 16670,
+        "variantIdHex": "0x411E",
+        "name": "Patina High Volt",
+        "character": "High Volt",
+        "element": "Tech",
+        "type": "Chase Variant",
+        "game": "SuperChargers",
+        "types": [
+            "Chase Variant",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "splat",
+        "toyId": 3402,
+        "toyIdHex": "0x0D4A",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Splat",
+        "character": "Splat",
+        "element": "Magic",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "power-blue-splat",
+        "variantOf": "splat",
+        "toyId": 3402,
+        "toyIdHex": "0x0D4A",
+        "variantId": 17666,
+        "variantIdHex": "0x4502",
+        "name": "Power Blue Splat",
+        "character": "Splat",
+        "element": "Magic",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "stormblade",
+        "toyId": 3406,
+        "toyIdHex": "0x0D4E",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Stormblade",
+        "character": "Stormblade",
+        "element": "Air",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "snow-brite-stormblade",
+        "variantOf": "stormblade",
+        "toyId": 3406,
+        "toyIdHex": "0x0D4E",
+        "variantId": 16654,
+        "variantIdHex": "0x410E",
+        "name": "Snow-Brite Stormblade",
+        "character": "Stormblade",
+        "element": "Air",
+        "type": "Chase Variant",
+        "game": "SuperChargers",
+        "types": [
+            "Chase Variant",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "smash-hit",
+        "toyId": 3411,
+        "toyIdHex": "0x0D53",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Smash Hit",
+        "character": "Smash Hit",
+        "element": "Earth",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "steel-plated-smash-hit",
+        "variantOf": "smash-hit",
+        "toyId": 3411,
+        "toyIdHex": "0x0D53",
+        "variantId": 17666,
+        "variantIdHex": "0x4502",
+        "name": "Steel Plated Smash Hit",
+        "character": "Smash Hit",
+        "element": "Earth",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "spitfire",
+        "toyId": 3412,
+        "toyIdHex": "0x0D54",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Spitfire",
+        "character": "Spitfire",
+        "element": "Fire",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "dark-spitfire",
+        "variantOf": "spitfire",
+        "toyId": 3412,
+        "toyIdHex": "0x0D54",
+        "variantId": 17666,
+        "variantIdHex": "0x4502",
+        "name": "Dark Spitfire",
+        "character": "Spitfire",
+        "element": "Fire",
+        "type": "Dark",
+        "game": "SuperChargers",
+        "types": [
+            "Dark",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "hurricane-jet-vac",
+        "variantOf": "jet-vac",
+        "toyId": 3413,
+        "toyIdHex": "0x0D55",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Hurricane Jet-Vac",
+        "character": "Jet-Vac",
+        "element": "Air",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "legendary-hurricane-jet-vac",
+        "variantOf": "hurricane-jet-vac",
+        "toyId": 3413,
+        "toyIdHex": "0x0D55",
+        "variantId": 17667,
+        "variantIdHex": "0x4503",
+        "name": "Legendary Hurricane Jet-Vac",
+        "character": "Jet-Vac",
+        "element": "Air",
+        "type": "Legendary",
+        "game": "SuperChargers",
+        "types": [
+            "Legendary",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "double-dare-trigger-happy",
+        "variantOf": "trigger-happy",
+        "toyId": 3414,
+        "toyIdHex": "0x0D56",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Double Dare Trigger Happy",
+        "character": "Trigger Happy",
+        "element": "Tech",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "power-blue-double-dare-trigger-happy",
+        "variantOf": "double-dare-trigger-happy",
+        "toyId": 3414,
+        "toyIdHex": "0x0D56",
+        "variantId": 17666,
+        "variantIdHex": "0x4502",
+        "name": "Power Blue Double Dare Trigger Happy",
+        "character": "Trigger Happy",
+        "element": "Tech",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "super-shot-stealth-elf",
+        "variantOf": "stealth-elf",
+        "toyId": 3415,
+        "toyIdHex": "0x0D57",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Super Shot Stealth Elf",
+        "character": "Stealth Elf",
+        "element": "Life",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "dark-super-shot-stealth-elf",
+        "variantOf": "super-shot-stealth-elf",
+        "toyId": 3415,
+        "toyIdHex": "0x0D57",
+        "variantId": 17666,
+        "variantIdHex": "0x4502",
+        "name": "Dark Super Shot Stealth Elf",
+        "character": "Stealth Elf",
+        "element": "Life",
+        "type": "Dark",
+        "game": "SuperChargers",
+        "types": [
+            "Dark",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "shark-shooter-terrafin",
+        "variantOf": "terrafin",
+        "toyId": 3416,
+        "toyIdHex": "0x0D58",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Shark Shooter Terrafin",
+        "character": "Terrafin",
+        "element": "Earth",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "bone-bash-roller-brawl",
+        "variantOf": "roller-brawl",
+        "toyId": 3417,
+        "toyIdHex": "0x0D59",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Bone Bash Roller Brawl",
+        "character": "Roller Brawl",
+        "element": "Undead",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "bronze-bone-bash-roller-brawl",
+        "variantOf": "bone-bash-roller-brawl",
+        "toyId": 3417,
+        "toyIdHex": "0x0D59",
+        "variantId": 16670,
+        "variantIdHex": "0x411E",
+        "name": "Bronze Bone Bash Roller Brawl",
+        "character": "Roller Brawl",
+        "element": "Undead",
+        "type": "Chase Variant",
+        "game": "SuperChargers",
+        "types": [
+            "Chase Variant",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "legendary-bone-bash-roller-brawl",
+        "variantOf": "bone-bash-roller-brawl",
+        "toyId": 3417,
+        "toyIdHex": "0x0D59",
+        "variantId": 17667,
+        "variantIdHex": "0x4503",
+        "name": "Legendary Bone Bash Roller Brawl",
+        "character": "Roller Brawl",
+        "element": "Undead",
+        "type": "Legendary",
+        "game": "SuperChargers",
+        "types": [
+            "Legendary",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "big-bubble-pop-fizz",
+        "variantOf": "pop-fizz",
+        "toyId": 3420,
+        "toyIdHex": "0x0D5C",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Big Bubble Pop Fizz",
+        "character": "Pop Fizz",
+        "element": "Magic",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "birthday-bash-big-bubble-pop-fizz",
+        "variantOf": "big-bubble-pop-fizz",
+        "toyId": 3420,
+        "toyIdHex": "0x0D5C",
+        "variantId": 17678,
+        "variantIdHex": "0x450E",
+        "name": "Birthday Bash Big Bubble Pop Fizz",
+        "character": "Pop Fizz",
+        "element": "Magic",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "lava-lance-eruptor",
+        "variantOf": "eruptor",
+        "toyId": 3421,
+        "toyIdHex": "0x0D5D",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Lava Lance Eruptor",
+        "character": "Eruptor",
+        "element": "Fire",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "patina-lava-lance-eruptor",
+        "variantOf": "lava-lance-eruptor",
+        "toyId": 3421,
+        "toyIdHex": "0x0D5D",
+        "variantId": 16670,
+        "variantIdHex": "0x411E",
+        "name": "Patina Lava Lance Eruptor",
+        "character": "Eruptor",
+        "element": "Fire",
+        "type": "Chase Variant",
+        "game": "SuperChargers",
+        "types": [
+            "Chase Variant",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "deep-dive-gill-grunt",
+        "variantOf": "gill-grunt",
+        "toyId": 3422,
+        "toyIdHex": "0x0D5E",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Deep Dive Gill Grunt",
+        "character": "Gill Grunt",
+        "element": "Water",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "turbo-charge-donkey-kong",
+        "toyId": 3423,
+        "toyIdHex": "0x0D5F",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Turbo Charge Donkey Kong",
+        "character": "Donkey Kong",
+        "element": "Life",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "dark-turbo-charge-donkey-kong",
+        "variantOf": "turbo-charge-donkey-kong",
+        "toyId": 3423,
+        "toyIdHex": "0x0D5F",
+        "variantId": 17666,
+        "variantIdHex": "0x4502",
+        "name": "Dark Turbo Charge Donkey Kong",
+        "character": "Donkey Kong",
+        "element": "Life",
+        "type": "Dark",
+        "game": "SuperChargers",
+        "types": [
+            "Dark",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "hammer-slam-bowser",
+        "toyId": 3424,
+        "toyIdHex": "0x0D60",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Hammer Slam Bowser",
+        "character": "Bowser",
+        "element": "Fire",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "dark-hammer-slam-bowser",
+        "variantOf": "hammer-slam-bowser",
+        "toyId": 3424,
+        "toyIdHex": "0x0D60",
+        "variantId": 17666,
+        "variantIdHex": "0x4502",
+        "name": "Dark Hammer Slam Bowser",
+        "character": "Bowser",
+        "element": "Fire",
+        "type": "Dark",
+        "game": "SuperChargers",
+        "types": [
+            "Dark",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "dive-clops",
+        "toyId": 3425,
+        "toyIdHex": "0x0D61",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Dive-Clops",
+        "character": "Dive-Clops",
+        "element": "Water",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "missile-tow-dive-clops",
+        "variantOf": "dive-clops",
+        "toyId": 3425,
+        "toyIdHex": "0x0D61",
+        "variantId": 17678,
+        "variantIdHex": "0x450E",
+        "name": "Missile-Tow Dive-Clops",
+        "character": "Dive-Clops",
+        "element": "Water",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "astroblast",
+        "toyId": 3426,
+        "toyIdHex": "0x0D62",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Astroblast",
+        "character": "Astroblast",
+        "element": "Light",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "legendary-astroblast",
+        "variantOf": "astroblast",
+        "toyId": 3426,
+        "toyIdHex": "0x0D62",
+        "variantId": 17667,
+        "variantIdHex": "0x4503",
+        "name": "Legendary Astroblast",
+        "character": "Astroblast",
+        "element": "Light",
+        "type": "Legendary",
+        "game": "SuperChargers",
+        "types": [
+            "Legendary",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "nightfall",
+        "toyId": 3427,
+        "toyIdHex": "0x0D63",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Nightfall",
+        "character": "Nightfall",
+        "element": "Dark",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "thrillipede",
+        "toyId": 3428,
+        "toyIdHex": "0x0D64",
+        "variantId": 16640,
+        "variantIdHex": "0x4100",
+        "name": "Thrillipede",
+        "character": "Thrillipede",
+        "element": "Life",
+        "type": "SuperCharger",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "eggcited-thrillipede",
+        "variantOf": "thrillipede",
+        "toyId": 3428,
+        "toyIdHex": "0x0D64",
+        "variantId": 17677,
+        "variantIdHex": "0x450D",
+        "name": "Eggcited Thrillipede",
+        "character": "Thrillipede",
+        "element": "Life",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "SuperCharger"
+        ]
+    },
+    {
+        "id": "jet-stream",
+        "toyId": 3220,
+        "toyIdHex": "0x0C94",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Jet Stream",
+        "element": "Air",
+        "terrain": "Sky",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "tomb-buggy",
+        "toyId": 3221,
+        "toyIdHex": "0x0C95",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Tomb Buggy",
+        "element": "Undead",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "bronze-tomb-buggy",
+        "variantOf": "tomb-buggy",
+        "toyId": 3221,
+        "toyIdHex": "0x0C95",
+        "variantId": 16414,
+        "variantIdHex": "0x401E",
+        "name": "Bronze Tomb Buggy",
+        "element": "Undead",
+        "terrain": "Land",
+        "type": "Chase Variant",
+        "game": "SuperChargers",
+        "types": [
+            "Chase Variant",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "reef-ripper",
+        "toyId": 3222,
+        "toyIdHex": "0x0C96",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Reef Ripper",
+        "element": "Water",
+        "terrain": "Sea",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "burn-cycle",
+        "toyId": 3223,
+        "toyIdHex": "0x0C97",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Burn-Cycle",
+        "element": "Fire",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "patina-burn-cycle",
+        "variantOf": "burn-cycle",
+        "toyId": 3223,
+        "toyIdHex": "0x0C97",
+        "variantId": 16414,
+        "variantIdHex": "0x401E",
+        "name": "Patina Burn-Cycle",
+        "element": "Fire",
+        "terrain": "Land",
+        "type": "Chase Variant",
+        "game": "SuperChargers",
+        "types": [
+            "Chase Variant",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "hot-streak",
+        "toyId": 3224,
+        "toyIdHex": "0x0C98",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Hot Streak",
+        "element": "Fire",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "event-exclusive-hot-streak",
+        "variantOf": "hot-streak",
+        "toyId": 3224,
+        "toyIdHex": "0x0C98",
+        "variantId": 16388,
+        "variantIdHex": "0x4004",
+        "name": "Event Exclusive Hot Streak",
+        "element": "Fire",
+        "terrain": "Land",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "Chase Variant",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "dark-hot-streak",
+        "variantOf": "hot-streak",
+        "toyId": 3224,
+        "toyIdHex": "0x0C98",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Dark Hot Streak",
+        "element": "Fire",
+        "terrain": "Land",
+        "type": "Dark",
+        "game": "SuperChargers",
+        "types": [
+            "Dark",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "golden-hot-streak",
+        "variantOf": "hot-streak",
+        "toyId": 3224,
+        "toyIdHex": "0x0C98",
+        "variantId": 17438,
+        "variantIdHex": "0x441E",
+        "name": "Golden Hot Streak",
+        "element": "Fire",
+        "terrain": "Land",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "shark-tank",
+        "toyId": 3225,
+        "toyIdHex": "0x0C99",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Shark Tank",
+        "element": "Earth",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "thump-truck",
+        "toyId": 3226,
+        "toyIdHex": "0x0C9A",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Thump Truck",
+        "element": "Earth",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "crypt-crusher",
+        "toyId": 3227,
+        "toyIdHex": "0x0C9B",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Crypt Crusher",
+        "element": "Undead",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "stealth-stinger",
+        "toyId": 3228,
+        "toyIdHex": "0x0C9C",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Stealth Stinger",
+        "element": "Life",
+        "terrain": "Sky",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "nitro-stealth-stinger",
+        "variantOf": "stealth-stinger",
+        "toyId": 3228,
+        "toyIdHex": "0x0C9C",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Nitro Stealth Stinger",
+        "element": "Life",
+        "terrain": "Sky",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "dive-bomber",
+        "toyId": 3231,
+        "toyIdHex": "0x0C9F",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Dive Bomber",
+        "element": "Water",
+        "terrain": "Sea",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "spring-ahead-dive-bomber",
+        "variantOf": "dive-bomber",
+        "toyId": 3231,
+        "toyIdHex": "0x0C9F",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Spring Ahead Dive Bomber",
+        "element": "Water",
+        "terrain": "Sea",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "sky-slicer",
+        "toyId": 3232,
+        "toyIdHex": "0x0CA0",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Sky Slicer",
+        "element": "Air",
+        "terrain": "Sky",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "clown-cruiser",
+        "toyId": 3233,
+        "toyIdHex": "0x0CA1",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Clown Cruiser",
+        "element": "Air",
+        "terrain": "Sky",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "dark-clown-cruiser",
+        "variantOf": "clown-cruiser",
+        "toyId": 3233,
+        "toyIdHex": "0x0CA1",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Dark Clown Cruiser",
+        "element": "Air",
+        "terrain": "Sky",
+        "type": "Dark",
+        "game": "SuperChargers",
+        "types": [
+            "Dark",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "gold-rusher",
+        "toyId": 3234,
+        "toyIdHex": "0x0CA2",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Gold Rusher",
+        "element": "Tech",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "power-blue-gold-rusher",
+        "variantOf": "gold-rusher",
+        "toyId": 3234,
+        "toyIdHex": "0x0CA2",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Power Blue Gold Rusher",
+        "element": "Tech",
+        "terrain": "Land",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "shield-striker",
+        "toyId": 3235,
+        "toyIdHex": "0x0CA3",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Shield Striker",
+        "element": "Tech",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "patina-shield-striker",
+        "variantOf": "shield-striker",
+        "toyId": 3235,
+        "toyIdHex": "0x0CA3",
+        "variantId": 16414,
+        "variantIdHex": "0x401E",
+        "name": "Patina Shield Striker",
+        "element": "Tech",
+        "terrain": "Land",
+        "type": "Chase Variant",
+        "game": "SuperChargers",
+        "types": [
+            "Chase Variant",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "sun-runner",
+        "toyId": 3236,
+        "toyIdHex": "0x0CA4",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Sun Runner",
+        "element": "Light",
+        "terrain": "Sky",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "legendary-sun-runner",
+        "variantOf": "sun-runner",
+        "toyId": 3236,
+        "toyIdHex": "0x0CA4",
+        "variantId": 17311,
+        "variantIdHex": "0x439F",
+        "name": "Legendary Sun Runner",
+        "element": "Light",
+        "terrain": "Sky",
+        "type": "Legendary",
+        "game": "SuperChargers",
+        "types": [
+            "Legendary",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "sea-shadow",
+        "toyId": 3237,
+        "toyIdHex": "0x0CA5",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Sea Shadow",
+        "element": "Dark",
+        "terrain": "Sea",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "dark-sea-shadow",
+        "variantOf": "sea-shadow",
+        "toyId": 3237,
+        "toyIdHex": "0x0CA5",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Dark Sea Shadow",
+        "element": "Dark",
+        "terrain": "Sea",
+        "type": "Dark",
+        "game": "SuperChargers",
+        "types": [
+            "Dark",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "splatter-splasher",
+        "toyId": 3238,
+        "toyIdHex": "0x0CA6",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Splatter Splasher",
+        "element": "Magic",
+        "terrain": "Sea",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "power-blue-splatter-splasher",
+        "variantOf": "splatter-splasher",
+        "toyId": 3238,
+        "toyIdHex": "0x0CA6",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Power Blue Splatter Splasher",
+        "element": "Magic",
+        "terrain": "Sea",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "soda-skimmer",
+        "toyId": 3239,
+        "toyIdHex": "0x0CA7",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Soda Skimmer",
+        "element": "Magic",
+        "terrain": "Sea",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "nitro-soda-skimmer",
+        "variantOf": "soda-skimmer",
+        "toyId": 3239,
+        "toyIdHex": "0x0CA7",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Nitro Soda Skimmer",
+        "element": "Magic",
+        "terrain": "Sea",
+        "type": "Special",
+        "game": "SuperChargers",
+        "types": [
+            "Special",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "barrel-blaster",
+        "toyId": 3240,
+        "toyIdHex": "0x0CA8",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Barrel Blaster",
+        "element": "Tech",
+        "terrain": "Land",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "dark-barrel-blaster",
+        "variantOf": "barrel-blaster",
+        "toyId": 3240,
+        "toyIdHex": "0x0CA8",
+        "variantId": 17410,
+        "variantIdHex": "0x4402",
+        "name": "Dark Barrel Blaster",
+        "element": "Tech",
+        "terrain": "Land",
+        "type": "Dark",
+        "game": "SuperChargers",
+        "types": [
+            "Dark",
+            "Vehicle"
+        ]
+    },
+    {
+        "id": "buzz-wing",
+        "toyId": 3241,
+        "toyIdHex": "0x0CA9",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Buzz Wing",
+        "element": "Life",
+        "terrain": "Sky",
+        "type": "Vehicle",
+        "game": "SuperChargers"
+    },
+    {
+        "id": "eons-elite-dino-rang",
+        "variantOf": "dino-rang",
+        "toyId": 6,
+        "toyIdHex": "0x0006",
+        "variantId": 18448,
+        "variantIdHex": "0x4810",
+        "name": "Eon's Elite Dino-Rang",
+        "character": "Dino-Rang",
+        "element": "Earth",
+        "type": "Eon's Elite",
+        "game": "SuperChargers",
+        "types": [
+            "Eon's Elite",
+            "Core"
+        ]
+    },
+    {
+        "id": "eons-elite-slam-bam",
+        "variantOf": "slam-bam",
+        "toyId": 15,
+        "toyIdHex": "0x000F",
+        "variantId": 18448,
+        "variantIdHex": "0x4810",
+        "name": "Eon's Elite Slam Bam",
+        "character": "Slam Bam",
+        "element": "Water",
+        "type": "Eon's Elite",
+        "game": "SuperChargers",
+        "types": [
+            "Eon's Elite",
+            "Core"
+        ]
+    },
+    {
+        "id": "eons-elite-voodood",
+        "variantOf": "voodood",
+        "toyId": 17,
+        "toyIdHex": "0x0011",
+        "variantId": 18448,
+        "variantIdHex": "0x4810",
+        "name": "Eon's Elite Voodood",
+        "character": "Voodood",
+        "element": "Magic",
+        "type": "Eon's Elite",
+        "game": "SuperChargers",
+        "types": [
+            "Eon's Elite",
+            "Core"
+        ]
+    },
+    {
+        "id": "eons-elite-boomer",
+        "variantOf": "boomer",
+        "toyId": 22,
+        "toyIdHex": "0x0016",
+        "variantId": 18448,
+        "variantIdHex": "0x4810",
+        "name": "Eon's Elite Boomer",
+        "character": "Boomer",
+        "element": "Tech",
+        "type": "Eon's Elite",
+        "game": "SuperChargers",
+        "types": [
+            "Eon's Elite",
+            "Core"
+        ]
+    },
+    {
+        "id": "eons-elite-zook",
+        "variantOf": "zook",
+        "toyId": 25,
+        "toyIdHex": "0x0019",
+        "variantId": 18448,
+        "variantIdHex": "0x4810",
+        "name": "Eon's Elite Zook",
+        "character": "Zook",
+        "element": "Life",
+        "type": "Eon's Elite",
+        "game": "SuperChargers",
+        "types": [
+            "Eon's Elite",
+            "Core"
+        ]
+    },
+    {
+        "id": "eons-elite-ghost-roaster",
+        "variantOf": "ghost-roaster",
+        "toyId": 31,
+        "toyIdHex": "0x001F",
+        "variantId": 18448,
+        "variantIdHex": "0x4810",
+        "name": "Eon's Elite Ghost Roaster",
+        "character": "Ghost Roaster",
+        "element": "Undead",
+        "type": "Eon's Elite",
+        "game": "SuperChargers",
+        "types": [
+            "Eon's Elite",
+            "Core"
+        ]
+    },
+    {
+        "id": "sky-trophy",
+        "toyId": 3500,
+        "toyIdHex": "0x0DAC",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Sky Trophy",
+        "type": "Magic Item",
+        "game": "SuperChargers",
+        "terrain": "Sky"
+    },
+    {
+        "id": "land-trophy",
+        "toyId": 3501,
+        "toyIdHex": "0x0DAD",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Land Trophy",
+        "type": "Magic Item",
+        "game": "SuperChargers",
+        "terrain": "Land"
+    },
+    {
+        "id": "sea-trophy",
+        "toyId": 3502,
+        "toyIdHex": "0x0DAE",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Sea Trophy",
+        "type": "Magic Item",
+        "game": "SuperChargers",
+        "terrain": "Sea"
+    },
+    {
+        "id": "kaos-trophy",
+        "toyId": 3503,
+        "toyIdHex": "0x0DAF",
+        "variantId": 16384,
+        "variantIdHex": "0x4000",
+        "name": "Kaos Trophy",
+        "type": "Magic Item",
+        "game": "SuperChargers"
+    }
+]

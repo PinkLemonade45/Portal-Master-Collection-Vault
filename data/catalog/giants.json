@@ -1,0 +1,1552 @@
+﻿[
+    {
+        "id":  "whirlwind-series-2",
+        "variantOf":  "whirlwind",
+        "toyId":  0,
+        "toyIdHex":  "0x0000",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Whirlwind Series 2",
+        "character":  "Whirlwind",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "sonic-boom-series-2",
+        "variantOf":  "sonic-boom",
+        "toyId":  1,
+        "toyIdHex":  "0x0001",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Sonic Boom Series 2",
+        "character":  "Sonic Boom",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightning-rod-series-2",
+        "variantOf":  "lightning-rod",
+        "toyId":  3,
+        "toyIdHex":  "0x0003",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Lightning Rod Series 2",
+        "character":  "Lightning Rod",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "bash-series-2",
+        "variantOf":  "bash",
+        "toyId":  4,
+        "toyIdHex":  "0x0004",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Bash Series 2",
+        "character":  "Bash",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "terrafin-series-2",
+        "variantOf":  "terrafin",
+        "toyId":  5,
+        "toyIdHex":  "0x0005",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Terrafin Series 2",
+        "character":  "Terrafin",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "prism-break-series-2",
+        "variantOf":  "prism-break",
+        "toyId":  7,
+        "toyIdHex":  "0x0007",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Prism Break Series 2",
+        "character":  "Prism Break",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eruptor-series-2",
+        "variantOf":  "eruptor",
+        "toyId":  9,
+        "toyIdHex":  "0x0009",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Eruptor Series 2",
+        "character":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "ignitor-series-2",
+        "variantOf":  "ignitor",
+        "toyId":  10,
+        "toyIdHex":  "0x000A",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Ignitor Series 2",
+        "character":  "Ignitor",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "flameslinger-series-2",
+        "variantOf":  "flameslinger",
+        "toyId":  11,
+        "toyIdHex":  "0x000B",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Flameslinger Series 2",
+        "character":  "Flameslinger",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "zap-series-2",
+        "variantOf":  "zap",
+        "toyId":  12,
+        "toyIdHex":  "0x000C",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Zap Series 2",
+        "character":  "Zap",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "gill-grunt-series-2",
+        "variantOf":  "gill-grunt",
+        "toyId":  14,
+        "toyIdHex":  "0x000E",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Gill Grunt Series 2",
+        "character":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "slam-bam-series-2",
+        "variantOf":  "slam-bam",
+        "toyId":  15,
+        "toyIdHex":  "0x000F",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Slam Bam Series 2",
+        "character":  "Slam Bam",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "spyro-series-2",
+        "variantOf":  "spyro",
+        "toyId":  16,
+        "toyIdHex":  "0x0010",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Spyro Series 2",
+        "character":  "Spyro",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "double-trouble-series-2",
+        "variantOf":  "double-trouble",
+        "toyId":  18,
+        "toyIdHex":  "0x0012",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Double Trouble Series 2",
+        "character":  "Double Trouble",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "wrecking-ball-series-2",
+        "variantOf":  "wrecking-ball",
+        "toyId":  23,
+        "toyIdHex":  "0x0017",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Wrecking Ball Series 2",
+        "character":  "Wrecking Ball",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "trigger-happy-series-2",
+        "variantOf":  "trigger-happy",
+        "toyId":  19,
+        "toyIdHex":  "0x0013",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Trigger Happy Series 2",
+        "character":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "drobot-series-2",
+        "variantOf":  "drobot",
+        "toyId":  20,
+        "toyIdHex":  "0x0014",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Drobot Series 2",
+        "character":  "Drobot",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "drill-sergeant-series-2",
+        "variantOf":  "drill-sergeant",
+        "toyId":  21,
+        "toyIdHex":  "0x0015",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Drill Sergeant Series 2",
+        "character":  "Drill Sergeant",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "zook-series-2",
+        "variantOf":  "zook",
+        "toyId":  25,
+        "toyIdHex":  "0x0019",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Zook Series 2",
+        "character":  "Zook",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "stealth-elf-series-2",
+        "variantOf":  "stealth-elf",
+        "toyId":  26,
+        "toyIdHex":  "0x001A",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Stealth Elf Series 2",
+        "character":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "stump-smash-series-2",
+        "variantOf":  "stump-smash",
+        "toyId":  27,
+        "toyIdHex":  "0x001B",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Stump Smash Series 2",
+        "character":  "Stump Smash",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "hex-series-2",
+        "variantOf":  "hex",
+        "toyId":  29,
+        "toyIdHex":  "0x001D",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Hex Series 2",
+        "character":  "Hex",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "chop-chop-series-2",
+        "variantOf":  "chop-chop",
+        "toyId":  30,
+        "toyIdHex":  "0x001E",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Chop Chop Series 2",
+        "character":  "Chop Chop",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "cynder-series-2",
+        "variantOf":  "cynder",
+        "toyId":  32,
+        "toyIdHex":  "0x0020",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Cynder Series 2",
+        "character":  "Cynder",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "jet-vac",
+        "toyId":  100,
+        "toyIdHex":  "0x0064",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Jet-Vac",
+        "character":  "Jet-Vac",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "flashwing",
+        "toyId":  103,
+        "toyIdHex":  "0x0067",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Flashwing",
+        "character":  "Flashwing",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "hot-dog",
+        "toyId":  105,
+        "toyIdHex":  "0x0069",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Hot Dog",
+        "character":  "Hot Dog",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "chill",
+        "toyId":  106,
+        "toyIdHex":  "0x006A",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Chill",
+        "character":  "Chill",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "pop-fizz",
+        "toyId":  108,
+        "toyIdHex":  "0x006C",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Pop Fizz",
+        "character":  "Pop Fizz",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "sprocket",
+        "toyId":  111,
+        "toyIdHex":  "0x006F",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Sprocket",
+        "character":  "Sprocket",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "shroomboom",
+        "toyId":  113,
+        "toyIdHex":  "0x0071",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Shroomboom",
+        "character":  "Shroomboom",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "fright-rider",
+        "toyId":  115,
+        "toyIdHex":  "0x0073",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Fright Rider",
+        "character":  "Fright Rider",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Giants",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "swarm",
+        "toyId":  101,
+        "toyIdHex":  "0x0065",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Swarm",
+        "character":  "Swarm",
+        "element":  "Air",
+        "type":  "Giant",
+        "game":  "Giants"
+    },
+    {
+        "id":  "crusher",
+        "toyId":  102,
+        "toyIdHex":  "0x0066",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Crusher",
+        "character":  "Crusher",
+        "element":  "Earth",
+        "type":  "Giant",
+        "game":  "Giants"
+    },
+    {
+        "id":  "hot-head",
+        "toyId":  104,
+        "toyIdHex":  "0x0068",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Hot Head",
+        "character":  "Hot Head",
+        "element":  "Fire",
+        "type":  "Giant",
+        "game":  "Giants"
+    },
+    {
+        "id":  "thumpback",
+        "toyId":  107,
+        "toyIdHex":  "0x006B",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Thumpback",
+        "character":  "Thumpback",
+        "element":  "Water",
+        "type":  "Giant",
+        "game":  "Giants"
+    },
+    {
+        "id":  "ninjini",
+        "toyId":  109,
+        "toyIdHex":  "0x006D",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Ninjini",
+        "character":  "Ninjini",
+        "element":  "Magic",
+        "type":  "Giant",
+        "game":  "Giants"
+    },
+    {
+        "id":  "bouncer",
+        "toyId":  110,
+        "toyIdHex":  "0x006E",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Bouncer",
+        "character":  "Bouncer",
+        "element":  "Tech",
+        "type":  "Giant",
+        "game":  "Giants"
+    },
+    {
+        "id":  "tree-rex",
+        "toyId":  112,
+        "toyIdHex":  "0x0070",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Tree Rex",
+        "character":  "Tree Rex",
+        "element":  "Life",
+        "type":  "Giant",
+        "game":  "Giants"
+    },
+    {
+        "id":  "eye-brawl",
+        "toyId":  114,
+        "toyIdHex":  "0x0072",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Eye-Brawl",
+        "character":  "Eye-Brawl",
+        "element":  "Undead",
+        "type":  "Giant",
+        "game":  "Giants"
+    },
+    {
+        "id":  "prism-break-lightcore",
+        "variantOf":  "prism-break",
+        "toyId":  7,
+        "toyIdHex":  "0x0007",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "LightCore Prism Break",
+        "character":  "Prism Break",
+        "element":  "Earth",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "types":  [
+                      "LightCore",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eruptor-lightcore",
+        "variantOf":  "eruptor",
+        "toyId":  9,
+        "toyIdHex":  "0x0009",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "LightCore Eruptor",
+        "character":  "Eruptor",
+        "element":  "Fire",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "types":  [
+                      "LightCore",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "drobot-lightcore",
+        "variantOf":  "drobot",
+        "toyId":  20,
+        "toyIdHex":  "0x0014",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "LightCore Drobot",
+        "character":  "Drobot",
+        "element":  "Tech",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "types":  [
+                      "LightCore",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "hex-lightcore",
+        "variantOf":  "hex",
+        "toyId":  29,
+        "toyIdHex":  "0x001D",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "LightCore Hex",
+        "character":  "Hex",
+        "element":  "Undead",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "types":  [
+                      "LightCore",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "jet-vac-lightcore",
+        "variantOf":  "jet-vac",
+        "toyId":  100,
+        "toyIdHex":  "0x0064",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "LightCore Jet-Vac",
+        "character":  "Jet-Vac",
+        "element":  "Air",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "chill-lightcore",
+        "variantOf":  "chill",
+        "toyId":  106,
+        "toyIdHex":  "0x006A",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "LightCore Chill",
+        "character":  "Chill",
+        "element":  "Water",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "pop-fizz-lightcore",
+        "variantOf":  "pop-fizz",
+        "toyId":  108,
+        "toyIdHex":  "0x006C",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "LightCore Pop Fizz",
+        "character":  "Pop Fizz",
+        "element":  "Magic",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "portrait":  "pop-fizz",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "shroomboom-lightcore",
+        "variantOf":  "shroomboom",
+        "toyId":  113,
+        "toyIdHex":  "0x0071",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "LightCore Shroomboom",
+        "character":  "Shroomboom",
+        "element":  "Life",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-jet-vac",
+        "variantOf":  "jet-vac",
+        "toyId":  100,
+        "toyIdHex":  "0x0064",
+        "variantId":  5123,
+        "variantIdHex":  "0x1403",
+        "name":  "Legendary Jet-Vac",
+        "character":  "Jet-Vac",
+        "element":  "Air",
+        "type":  "Legendary",
+        "game":  "Giants",
+        "types":  [
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-bouncer",
+        "variantOf":  "bouncer",
+        "toyId":  110,
+        "toyIdHex":  "0x006E",
+        "variantId":  5635,
+        "variantIdHex":  "0x1603",
+        "name":  "Legendary Bouncer",
+        "character":  "Bouncer",
+        "element":  "Tech",
+        "type":  "Legendary",
+        "game":  "Giants",
+        "types":  [
+                      "Legendary",
+                      "Giant"
+                  ]
+    },
+    {
+        "id":  "legendary-lightcore-chill",
+        "variantOf":  "chill",
+        "toyId":  106,
+        "toyIdHex":  "0x006A",
+        "variantId":  5635,
+        "variantIdHex":  "0x1603",
+        "name":  "Legendary LightCore Chill",
+        "character":  "Chill",
+        "element":  "Water",
+        "type":  "LightCore",
+        "game":  "Giants",
+        "types":  [
+                      "LightCore",
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-ignitor-series-2",
+        "variantOf":  "ignitor",
+        "toyId":  10,
+        "toyIdHex":  "0x000A",
+        "variantId":  7171,
+        "variantIdHex":  "0x1C03",
+        "name":  "Legendary Ignitor",
+        "character":  "Ignitor",
+        "element":  "Fire",
+        "type":  "Legendary",
+        "game":  "Giants",
+        "types":  [
+                      "Legendary",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-slam-bam-series-2",
+        "variantOf":  "slam-bam",
+        "toyId":  15,
+        "toyIdHex":  "0x000F",
+        "variantId":  7171,
+        "variantIdHex":  "0x1C03",
+        "name":  "Legendary Slam Bam",
+        "character":  "Slam Bam",
+        "element":  "Water",
+        "type":  "Legendary",
+        "game":  "Giants",
+        "types":  [
+                      "Legendary",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-stealth-elf-series-2",
+        "variantOf":  "stealth-elf",
+        "toyId":  26,
+        "toyIdHex":  "0x001A",
+        "variantId":  7171,
+        "variantIdHex":  "0x1C03",
+        "name":  "Legendary Stealth Elf",
+        "character":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Legendary",
+        "game":  "Giants",
+        "types":  [
+                      "Legendary",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "polar-whirlwind",
+        "variantOf":  "whirlwind",
+        "toyId":  0,
+        "toyIdHex":  "0x0000",
+        "variantId":  7170,
+        "variantIdHex":  "0x1C02",
+        "name":  "Polar Whirlwind",
+        "character":  "Whirlwind",
+        "element":  "Air",
+        "type":  "Special",
+        "game":  "Giants",
+        "types":  [
+                      "Special",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "royal-double-trouble",
+        "variantOf":  "double-trouble",
+        "toyId":  18,
+        "toyIdHex":  "0x0012",
+        "variantId":  7170,
+        "variantIdHex":  "0x1C02",
+        "name":  "Royal Double Trouble",
+        "character":  "Double Trouble",
+        "element":  "Magic",
+        "type":  "Special",
+        "game":  "Giants",
+        "types":  [
+                      "Special",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "double-trouble-1-5",
+        "variantOf":  "double-trouble",
+        "toyId":  18,
+        "toyIdHex":  "0x0012",
+        "variantId":  6145,
+        "variantIdHex":  "0x1801",
+        "name":  "Double Trouble 1.5",
+        "character":  "Double Trouble",
+        "element":  "Magic",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "double-trouble-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "granite-crusher",
+        "variantOf":  "crusher",
+        "toyId":  102,
+        "toyIdHex":  "0x0066",
+        "variantId":  5634,
+        "variantIdHex":  "0x1602",
+        "name":  "Granite Crusher",
+        "character":  "Crusher",
+        "element":  "Earth",
+        "type":  "Special",
+        "game":  "Giants",
+        "types":  [
+                      "Special",
+                      "Giant"
+                  ]
+    },
+    {
+        "id":  "jade-flashwing",
+        "variantOf":  "flashwing",
+        "toyId":  103,
+        "toyIdHex":  "0x0067",
+        "variantId":  5122,
+        "variantIdHex":  "0x1402",
+        "name":  "Jade Flashwing",
+        "character":  "Flashwing",
+        "element":  "Earth",
+        "type":  "Special",
+        "game":  "Giants",
+        "types":  [
+                      "Special",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "molten-hot-dog",
+        "variantOf":  "hot-dog",
+        "toyId":  105,
+        "toyIdHex":  "0x0069",
+        "variantId":  5122,
+        "variantIdHex":  "0x1402",
+        "name":  "Molten Hot Dog",
+        "character":  "Hot Dog",
+        "element":  "Fire",
+        "type":  "Special",
+        "game":  "Giants",
+        "types":  [
+                      "Special",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "punch-pop-fizz",
+        "variantOf":  "pop-fizz",
+        "toyId":  108,
+        "toyIdHex":  "0x006C",
+        "variantId":  5122,
+        "variantIdHex":  "0x1402",
+        "name":  "Punch Pop Fizz",
+        "character":  "Pop Fizz",
+        "element":  "Magic",
+        "type":  "Special",
+        "game":  "Giants",
+        "types":  [
+                      "Special",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "scarlet-ninjini",
+        "variantOf":  "ninjini",
+        "toyId":  109,
+        "toyIdHex":  "0x006D",
+        "variantId":  5634,
+        "variantIdHex":  "0x1602",
+        "name":  "Scarlet Ninjini",
+        "character":  "Ninjini",
+        "element":  "Magic",
+        "type":  "Special",
+        "game":  "Giants",
+        "types":  [
+                      "Special",
+                      "Giant"
+                  ]
+    },
+    {
+        "id":  "gnarly-tree-rex",
+        "variantOf":  "tree-rex",
+        "toyId":  112,
+        "toyIdHex":  "0x0070",
+        "variantId":  5634,
+        "variantIdHex":  "0x1602",
+        "name":  "Gnarly Tree Rex",
+        "character":  "Tree Rex",
+        "element":  "Life",
+        "type":  "Special",
+        "game":  "Giants",
+        "types":  [
+                      "Special",
+                      "Giant"
+                  ]
+    },
+    {
+        "id":  "whirlwind-stone",
+        "variantOf":  "whirlwind",
+        "toyId":  0,
+        "toyIdHex":  "0x0000",
+        "variantId":  6162,
+        "variantIdHex":  "0x1812",
+        "name":  "Stone Whirlwind",
+        "character":  "Whirlwind",
+        "element":  "Air",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "polar-whirlwind",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "sonic-boom-glow-in-dark",
+        "variantOf":  "sonic-boom",
+        "toyId":  1,
+        "toyIdHex":  "0x0001",
+        "variantId":  6161,
+        "variantIdHex":  "0x1811",
+        "name":  "Glow-in-the-Dark Sonic Boom",
+        "character":  "Sonic Boom",
+        "element":  "Air",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "sonic-boom-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "sonic-boom-sparkle",
+        "variantOf":  "sonic-boom",
+        "toyId":  1,
+        "toyIdHex":  "0x0001",
+        "variantId":  6163,
+        "variantIdHex":  "0x1813",
+        "name":  "Sparkle Sonic Boom",
+        "character":  "Sonic Boom",
+        "element":  "Air",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "sonic-boom-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightning-rod-iridescent",
+        "variantOf":  "lightning-rod",
+        "toyId":  3,
+        "toyIdHex":  "0x0003",
+        "variantId":  6164,
+        "variantIdHex":  "0x1814",
+        "name":  "Iridescent Lightning Rod",
+        "character":  "Lightning Rod",
+        "element":  "Air",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "lightning-rod-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "employee-edition-lightcore-prism-break",
+        "variantOf":  "prism-break",
+        "toyId":  7,
+        "toyIdHex":  "0x0007",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Employee Edition LightCore Prism Break",
+        "character":  "Prism Break",
+        "element":  "Earth",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "prism-break-lightcore-rare",
+        "types":  [
+                      "Chase Variant",
+                      "LightCore",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "white-flocked-prism-break",
+        "variantOf":  "prism-break",
+        "toyId":  7,
+        "toyIdHex":  "0x0007",
+        "variantId":  4628,
+        "variantIdHex":  "0x1214",
+        "name":  "White Flocked Prism Break",
+        "character":  "Prism Break",
+        "element":  "Earth",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "prism-break-lightcore",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eruptor-white-flocked",
+        "variantOf":  "eruptor",
+        "toyId":  9,
+        "toyIdHex":  "0x0009",
+        "variantId":  6164,
+        "variantIdHex":  "0x1814",
+        "name":  "White Flocked Eruptor",
+        "character":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "eruptor-lightcore",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "flameslinger-bronze",
+        "variantOf":  "flameslinger",
+        "toyId":  11,
+        "toyIdHex":  "0x000B",
+        "variantId":  6146,
+        "variantIdHex":  "0x1802",
+        "name":  "Bronze Flameslinger",
+        "character":  "Flameslinger",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "flameslinger-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "gill-grunt-metallic",
+        "variantOf":  "gill-grunt",
+        "toyId":  14,
+        "toyIdHex":  "0x000E",
+        "variantId":  6167,
+        "variantIdHex":  "0x1817",
+        "name":  "Metallic Gill Grunt",
+        "character":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "gill-grunt-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "wrecking-ball-iridescent",
+        "variantOf":  "wrecking-ball",
+        "toyId":  23,
+        "toyIdHex":  "0x0017",
+        "variantId":  6164,
+        "variantIdHex":  "0x1814",
+        "name":  "Iridescent Wrecking Ball",
+        "character":  "Wrecking Ball",
+        "element":  "Magic",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "wrecking-ball-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "zook-stone",
+        "variantOf":  "zook",
+        "toyId":  25,
+        "toyIdHex":  "0x0019",
+        "variantId":  6162,
+        "variantIdHex":  "0x1812",
+        "name":  "Stone Zook",
+        "character":  "Zook",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "zook-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "stump-smash-white-flocked",
+        "variantOf":  "stump-smash",
+        "toyId":  27,
+        "toyIdHex":  "0x001B",
+        "variantId":  6164,
+        "variantIdHex":  "0x1814",
+        "name":  "White Flocked Stump Smash",
+        "character":  "Stump Smash",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "stump-smash-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "chop-chop-metallic-blue",
+        "variantOf":  "chop-chop",
+        "toyId":  30,
+        "toyIdHex":  "0x001E",
+        "variantId":  6148,
+        "variantIdHex":  "0x1804",
+        "name":  "Metallic Blue Chop Chop",
+        "character":  "Chop Chop",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "chop-chop-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "cynder-glow-in-dark",
+        "variantOf":  "cynder",
+        "toyId":  32,
+        "toyIdHex":  "0x0020",
+        "variantId":  6161,
+        "variantIdHex":  "0x1811",
+        "name":  "Glow-in-the-Dark Cynder",
+        "character":  "Cynder",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "cynder-series-2",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "hot-head-sparkle",
+        "variantOf":  "hot-head",
+        "toyId":  104,
+        "toyIdHex":  "0x0068",
+        "variantId":  4627,
+        "variantIdHex":  "0x1213",
+        "name":  "Sparkle Hot Head",
+        "character":  "Hot Head",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "hot-head",
+        "types":  [
+                      "Chase Variant",
+                      "Giant"
+                  ]
+    },
+    {
+        "id":  "hot-dog-color-shift",
+        "variantOf":  "hot-dog",
+        "toyId":  105,
+        "toyIdHex":  "0x0069",
+        "variantId":  4117,
+        "variantIdHex":  "0x1015",
+        "name":  "Color Shift Hot Dog",
+        "character":  "Hot Dog",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "hot-dog",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "sprocket-sparkle",
+        "variantOf":  "sprocket",
+        "toyId":  111,
+        "toyIdHex":  "0x006F",
+        "variantId":  4115,
+        "variantIdHex":  "0x1013",
+        "name":  "Sparkle Sprocket",
+        "character":  "Sprocket",
+        "element":  "Tech",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "sprocket",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "shroomboom-metallic",
+        "variantOf":  "shroomboom",
+        "toyId":  113,
+        "toyIdHex":  "0x0071",
+        "variantId":  4119,
+        "variantIdHex":  "0x1017",
+        "name":  "Metallic Shroomboom",
+        "character":  "Shroomboom",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "shroomboom",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eye-brawl-iridescent",
+        "variantOf":  "eye-brawl",
+        "toyId":  114,
+        "toyIdHex":  "0x0072",
+        "variantId":  4628,
+        "variantIdHex":  "0x1214",
+        "name":  "Iridescent Eye-Brawl",
+        "character":  "Eye-Brawl",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "eye-brawl",
+        "types":  [
+                      "Chase Variant",
+                      "Giant"
+                  ]
+    },
+    {
+        "id":  "eye-brawl-pumpkin",
+        "variantOf":  "eye-brawl",
+        "toyId":  114,
+        "toyIdHex":  "0x0072",
+        "variantId":  4629,
+        "variantIdHex":  "0x1215",
+        "name":  "Pumpkin Eye-Brawl",
+        "character":  "Eye-Brawl",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "eye-brawl",
+        "types":  [
+                      "Chase Variant",
+                      "Giant"
+                  ]
+    },
+    {
+        "id":  "fright-rider-glow-in-dark",
+        "variantOf":  "fright-rider",
+        "toyId":  115,
+        "toyIdHex":  "0x0073",
+        "variantId":  4113,
+        "variantIdHex":  "0x1011",
+        "name":  "Glow-in-the-Dark Fright Rider",
+        "character":  "Fright Rider",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "fright-rider",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "fright-rider-halloween",
+        "variantOf":  "fright-rider",
+        "toyId":  115,
+        "toyIdHex":  "0x0073",
+        "variantId":  4117,
+        "variantIdHex":  "0x1015",
+        "name":  "Halloween Fright Rider",
+        "character":  "Fright Rider",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Giants",
+        "portrait":  "fright-rider",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "dragonfire-cannon",
+        "toyId":  208,
+        "toyIdHex":  "0x00D0",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Dragonfire Cannon",
+        "type":  "Magic Item",
+        "game":  "Giants"
+    },
+    {
+        "id":  "golden-dragonfire-cannon",
+        "variantOf":  "dragonfire-cannon",
+        "toyId":  208,
+        "toyIdHex":  "0x00D0",
+        "variantId":  5634,
+        "variantIdHex":  "0x1602",
+        "name":  "Golden Dragonfire Cannon",
+        "type":  "Magic Item",
+        "game":  "Giants"
+    },
+    {
+        "id":  "scorpion-striker-catapult",
+        "toyId":  209,
+        "toyIdHex":  "0x00D1",
+        "variantId":  4614,
+        "variantIdHex":  "0x1206",
+        "name":  "Scorpion Striker Catapult",
+        "type":  "Magic Item",
+        "game":  "Giants"
+    },
+    {
+        "id":  "platinum-treasure-chest",
+        "toyId":  201,
+        "toyIdHex":  "0x00C9",
+        "variantId":  2,
+        "variantIdHex":  "0x0002",
+        "name":  "Platinum Treasure Chest",
+        "type":  "Magic Item",
+        "game":  "Giants"
+    },
+    {
+        "id":  "barkley",
+        "toyId":  540,
+        "toyIdHex":  "0x021C",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Barkley",
+        "companionCharacter":  "Tree Rex",
+        "element":  "Life",
+        "type":  "Sidekick",
+        "game":  "Giants"
+    },
+    {
+        "id":  "thumpling",
+        "toyId":  541,
+        "toyIdHex":  "0x021D",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Thumpling",
+        "companionCharacter":  "Thumpback",
+        "element":  "Water",
+        "type":  "Sidekick",
+        "game":  "Giants"
+    },
+    {
+        "id":  "mini-jini",
+        "toyId":  542,
+        "toyIdHex":  "0x021E",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Mini-Jini",
+        "companionCharacter":  "Ninjini",
+        "element":  "Magic",
+        "type":  "Sidekick",
+        "game":  "Giants"
+    },
+    {
+        "id":  "eye-small",
+        "toyId":  543,
+        "toyIdHex":  "0x021F",
+        "variantId":  4096,
+        "variantIdHex":  "0x1000",
+        "name":  "Eye-Small",
+        "companionCharacter":  "Eye-Brawl",
+        "element":  "Undead",
+        "type":  "Sidekick",
+        "game":  "Giants"
+    }
+]

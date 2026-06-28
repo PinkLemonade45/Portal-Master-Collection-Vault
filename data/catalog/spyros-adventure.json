@@ -1,0 +1,1197 @@
+﻿[
+    {
+        "id":  "whirlwind",
+        "toyId":  0,
+        "toyIdHex":  "0x0000",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Whirlwind",
+        "character":  "Whirlwind",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "sonic-boom",
+        "toyId":  1,
+        "toyIdHex":  "0x0001",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Sonic Boom",
+        "character":  "Sonic Boom",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "warnado",
+        "toyId":  2,
+        "toyIdHex":  "0x0002",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Warnado",
+        "character":  "Warnado",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightning-rod",
+        "toyId":  3,
+        "toyIdHex":  "0x0003",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Lightning Rod",
+        "character":  "Lightning Rod",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "bash",
+        "toyId":  4,
+        "toyIdHex":  "0x0004",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Bash",
+        "character":  "Bash",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "terrafin",
+        "toyId":  5,
+        "toyIdHex":  "0x0005",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Terrafin",
+        "character":  "Terrafin",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "dino-rang",
+        "toyId":  6,
+        "toyIdHex":  "0x0006",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Dino-Rang",
+        "character":  "Dino-Rang",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "prism-break",
+        "toyId":  7,
+        "toyIdHex":  "0x0007",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Prism Break",
+        "character":  "Prism Break",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "sunburn",
+        "toyId":  8,
+        "toyIdHex":  "0x0008",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Sunburn",
+        "character":  "Sunburn",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eruptor",
+        "toyId":  9,
+        "toyIdHex":  "0x0009",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Eruptor",
+        "character":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "ignitor",
+        "toyId":  10,
+        "toyIdHex":  "0x000A",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Ignitor",
+        "character":  "Ignitor",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "flameslinger",
+        "toyId":  11,
+        "toyIdHex":  "0x000B",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Flameslinger",
+        "character":  "Flameslinger",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "zap",
+        "toyId":  12,
+        "toyIdHex":  "0x000C",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Zap",
+        "character":  "Zap",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "wham-shell",
+        "toyId":  13,
+        "toyIdHex":  "0x000D",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Wham-Shell",
+        "character":  "Wham-Shell",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "gill-grunt",
+        "toyId":  14,
+        "toyIdHex":  "0x000E",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Gill Grunt",
+        "character":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "slam-bam",
+        "toyId":  15,
+        "toyIdHex":  "0x000F",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Slam Bam",
+        "character":  "Slam Bam",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "spyro",
+        "toyId":  16,
+        "toyIdHex":  "0x0010",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Spyro",
+        "character":  "Spyro",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "voodood",
+        "toyId":  17,
+        "toyIdHex":  "0x0011",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Voodood",
+        "character":  "Voodood",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "double-trouble",
+        "toyId":  18,
+        "toyIdHex":  "0x0012",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Double Trouble",
+        "character":  "Double Trouble",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "trigger-happy",
+        "toyId":  19,
+        "toyIdHex":  "0x0013",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Trigger Happy",
+        "character":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "drobot",
+        "toyId":  20,
+        "toyIdHex":  "0x0014",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Drobot",
+        "character":  "Drobot",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "drill-sergeant",
+        "toyId":  21,
+        "toyIdHex":  "0x0015",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Drill Sergeant",
+        "character":  "Drill Sergeant",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "boomer",
+        "toyId":  22,
+        "toyIdHex":  "0x0016",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Boomer",
+        "character":  "Boomer",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "wrecking-ball",
+        "toyId":  23,
+        "toyIdHex":  "0x0017",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Wrecking Ball",
+        "character":  "Wrecking Ball",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "camo",
+        "toyId":  24,
+        "toyIdHex":  "0x0018",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Camo",
+        "character":  "Camo",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "zook",
+        "toyId":  25,
+        "toyIdHex":  "0x0019",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Zook",
+        "character":  "Zook",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "stealth-elf",
+        "toyId":  26,
+        "toyIdHex":  "0x001A",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Stealth Elf",
+        "character":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "stump-smash",
+        "toyId":  27,
+        "toyIdHex":  "0x001B",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Stump Smash",
+        "character":  "Stump Smash",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "hex",
+        "toyId":  29,
+        "toyIdHex":  "0x001D",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Hex",
+        "character":  "Hex",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "chop-chop",
+        "toyId":  30,
+        "toyIdHex":  "0x001E",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Chop Chop",
+        "character":  "Chop Chop",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "ghost-roaster",
+        "toyId":  31,
+        "toyIdHex":  "0x001F",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Ghost Roaster",
+        "character":  "Ghost Roaster",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "cynder",
+        "toyId":  32,
+        "toyIdHex":  "0x0020",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Cynder",
+        "character":  "Cynder",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "dark-spyro",
+        "variantOf":  "spyro",
+        "toyId":  28,
+        "toyIdHex":  "0x001C",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Dark Spyro",
+        "character":  "Spyro",
+        "element":  "Magic",
+        "type":  "Dark",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Dark",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-bash",
+        "variantOf":  "bash",
+        "toyId":  404,
+        "toyIdHex":  "0x0194",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Legendary Bash",
+        "character":  "Bash",
+        "element":  "Earth",
+        "type":  "Legendary",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-spyro",
+        "variantOf":  "spyro",
+        "toyId":  416,
+        "toyIdHex":  "0x01A0",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Legendary Spyro",
+        "character":  "Spyro",
+        "element":  "Magic",
+        "type":  "Legendary",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-trigger-happy",
+        "variantOf":  "trigger-happy",
+        "toyId":  419,
+        "toyIdHex":  "0x01A3",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Legendary Trigger Happy",
+        "character":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Legendary",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-chop-chop",
+        "variantOf":  "chop-chop",
+        "toyId":  430,
+        "toyIdHex":  "0x01AE",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Legendary Chop Chop",
+        "character":  "Chop Chop",
+        "element":  "Undead",
+        "type":  "Legendary",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Legendary",
+                      "Series 1",   
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "bash-blue",
+        "variantOf":  "bash",
+        "toyId":  4,
+        "toyIdHex":  "0x0004",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Blue Bash",
+        "character":  "Bash",
+        "element":  "Earth",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "bash",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "spyro-chrome",
+        "variantOf":  "spyro",
+        "toyId":  16,
+        "toyIdHex":  "0x0010",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Chrome Spyro",
+        "character":  "Spyro",
+        "element":  "Magic",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "dark-spyro",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "cynder-crystal-clear",
+        "variantOf":  "cynder",
+        "toyId":  32,
+        "toyIdHex":  "0x0020",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Crystal Clear Cynder",
+        "character":  "Cynder",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "cynder",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "stealth-elf-crystal-clear",
+        "variantOf":  "stealth-elf",
+        "toyId":  26,
+        "toyIdHex":  "0x001A",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Crystal Clear Stealth Elf",
+        "character":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "stealth-elf",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "wham-shell-crystal-clear",
+        "variantOf":  "wham-shell",
+        "toyId":  13,
+        "toyIdHex":  "0x000D",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Crystal Clear Wham-Shell",
+        "character":  "Wham-Shell",
+        "element":  "Water",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "wham-shell",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "whirlwind-crystal-clear",
+        "variantOf":  "whirlwind",
+        "toyId":  0,
+        "toyIdHex":  "0x0000",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Crystal Clear Whirlwind",
+        "character":  "Whirlwind",
+        "element":  "Air",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "whirlwind",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "stump-smash-flocked",
+        "variantOf":  "stump-smash",
+        "toyId":  27,
+        "toyIdHex":  "0x001B",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Flocked Stump Smash",
+        "character":  "Stump Smash",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "stump-smash",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "warnado-glow-in-dark",
+        "variantOf":  "warnado",
+        "toyId":  2,
+        "toyIdHex":  "0x0002",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Glow-in-the-Dark Warnado",
+        "character":  "Warnado",
+        "element":  "Air",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "warnado",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "wrecking-ball-glow-in-dark",
+        "variantOf":  "wrecking-ball",
+        "toyId":  23,
+        "toyIdHex":  "0x0017",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Glow-in-the-Dark Wrecking Ball",
+        "character":  "Wrecking Ball",
+        "element":  "Magic",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "wrecking-ball",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "zap-glow-in-dark",
+        "variantOf":  "zap",
+        "toyId":  12,
+        "toyIdHex":  "0x000C",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Glow-in-the-Dark Zap",
+        "character":  "Zap",
+        "element":  "Water",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "zap",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "chop-chop-gold",
+        "variantOf":  "chop-chop",
+        "toyId":  30,
+        "toyIdHex":  "0x001E",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Gold Chop Chop",
+        "character":  "Chop Chop",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "chop-chop",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "drill-sergeant-gold",
+        "variantOf":  "drill-sergeant",
+        "toyId":  21,
+        "toyIdHex":  "0x0015",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Gold Drill Sergeant",
+        "character":  "Drill Sergeant",
+        "element":  "Tech",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "drill-sergeant",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "flameslinger-gold",
+        "variantOf":  "flameslinger",
+        "toyId":  11,
+        "toyIdHex":  "0x000B",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Gold Flameslinger",
+        "character":  "Flameslinger",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "flameslinger",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "gill-grunt-green",
+        "variantOf":  "gill-grunt",
+        "toyId":  14,
+        "toyIdHex":  "0x000E",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Green Gill Grunt",
+        "character":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "gill-grunt",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "cynder-metallic-purple",
+        "variantOf":  "cynder",
+        "toyId":  32,
+        "toyIdHex":  "0x0020",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Metallic Purple Cynder",
+        "character":  "Cynder",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "cynder",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "hex-pearl",
+        "variantOf":  "hex",
+        "toyId":  29,
+        "toyIdHex":  "0x001D",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Pearl Hex",
+        "character":  "Hex",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "hex",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "camo-red",
+        "variantOf":  "camo",
+        "toyId":  24,
+        "toyIdHex":  "0x0018",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Red Camo",
+        "character":  "Camo",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "camo",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "drill-sergeant-red",
+        "variantOf":  "drill-sergeant",
+        "toyId":  21,
+        "toyIdHex":  "0x0015",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Red Drill Sergeant",
+        "character":  "Drill Sergeant",
+        "element":  "Tech",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "drill-sergeant",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "boomer-silver",
+        "variantOf":  "boomer",
+        "toyId":  22,
+        "toyIdHex":  "0x0016",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Silver Boomer",
+        "character":  "Boomer",
+        "element":  "Tech",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "boomer",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "dino-rang-silver",
+        "variantOf":  "dino-rang",
+        "toyId":  6,
+        "toyIdHex":  "0x0006",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Silver Dino-Rang",
+        "character":  "Dino-Rang",
+        "element":  "Earth",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "dino-rang",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eruptor-silver",
+        "variantOf":  "eruptor",
+        "toyId":  9,
+        "toyIdHex":  "0x0009",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Silver Eruptor",
+        "character":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "Spyro\u0027s Adventure",
+        "portrait":  "eruptor",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "anvil-rain",
+        "toyId":  200,
+        "toyIdHex":  "0x00C8",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Anvil Rain",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "hidden-treasure",
+        "toyId":  201,
+        "toyIdHex":  "0x00C9",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Hidden Treasure",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "healing-elixir",
+        "toyId":  202,
+        "toyIdHex":  "0x00CA",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Healing Elixir",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "ghost-pirate-swords",
+        "toyId":  203,
+        "toyIdHex":  "0x00CB",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Ghost Pirate Swords",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "time-twister-hourglass",
+        "toyId":  204,
+        "toyIdHex":  "0x00CC",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Time Twister Hourglass",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "sky-iron-shield",
+        "toyId":  205,
+        "toyIdHex":  "0x00CD",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Sky-Iron Shield",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "winged-boots",
+        "toyId":  206,
+        "toyIdHex":  "0x00CE",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Winged Boots",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "sparx-the-dragonfly",
+        "toyId":  207,
+        "toyIdHex":  "0x00CF",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Sparx the Dragonfly",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "dragons-peak",
+        "toyId":  300,
+        "toyIdHex":  "0x012C",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Dragon\u0027s Peak",
+        "type":  "Adventure Pack",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "empire-of-ice",
+        "toyId":  301,
+        "toyIdHex":  "0x012D",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Empire of Ice",
+        "type":  "Adventure Pack",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "pirate-seas",
+        "toyId":  302,
+        "toyIdHex":  "0x012E",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Pirate Seas",
+        "type":  "Adventure Pack",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "darklight-crypt",
+        "toyId":  303,
+        "toyIdHex":  "0x012F",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Darklight Crypt",
+        "type":  "Adventure Pack",
+        "game":  "Spyro\u0027s Adventure",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "volcanic-vault",
+        "toyId":  304,
+        "toyIdHex":  "0x0130",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Volcanic Vault",
+        "type":  "Magic Item",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "terrabite",
+        "toyId":  505,
+        "toyIdHex":  "0x01F9",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Terrabite",
+        "companionCharacter":  "Terrafin",
+        "element":  "Earth",
+        "type":  "Sidekick",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "gill-runt",
+        "toyId":  514,
+        "toyIdHex":  "0x0202",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Gill Runt",
+        "companionCharacter":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Sidekick",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "trigger-snappy",
+        "toyId":  519,
+        "toyIdHex":  "0x0207",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Trigger Snappy",
+        "companionCharacter":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Sidekick",
+        "game":  "Spyro\u0027s Adventure"
+    },
+    {
+        "id":  "whisper-elf",
+        "toyId":  526,
+        "toyIdHex":  "0x020E",
+        "variantId":  0,
+        "variantIdHex":  "0x0000",
+        "name":  "Whisper Elf",
+        "companionCharacter":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Sidekick",
+        "game":  "Spyro\u0027s Adventure"
+    }
+]

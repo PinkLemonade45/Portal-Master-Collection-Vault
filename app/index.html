@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portal Master Vault</title>
+    <link rel="stylesheet" href="/app/styles.css">
+  </head>
+  <body class="portal-blocked">
+    <div id="portalGate" class="portal-gate" role="status" aria-live="polite" data-state="searching">
+      <img class="portal-gate-bg" src="/assets/images/portal_not_found.png" alt="">
+      <div class="portal-particles" aria-hidden="true">
+        <span></span><span></span><span></span><span></span>
+        <span></span><span></span><span></span><span></span>
+      </div>
+      <div class="portal-gate-content">
+        <img class="portal-gate-logo" src="/assets/images/logos/logo.png" alt="Portal Master Vault">
+        <div class="portal-startup-ring" aria-hidden="true">
+          <span></span><span></span><span></span><span></span>
+          <span></span><span></span><span></span><span></span>
+          <div class="portal-startup-core"></div>
+        </div>
+        <div class="portal-gate-copy">
+          <h2 id="portalGateTitle">Searching for Portal...</h2>
+          <p id="portalGateText">Connect a Portal of Power to continue.</p>
+        </div>
+      </div>
+    </div>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="app-brand">
+          <img class="app-logo" src="/assets/images/logos/logo.png" alt="Portal Master Vault">
+          <p id="syncStatus">Loading collection</p>
+        </div>
+        <div id="summaryStrip" class="summary-strip" aria-label="Collection summary"></div>
+        <section id="scannerPanel" class="scanner-panel" hidden>
+          <span id="scannerStatus" class="visually-hidden">Checking for portal...</span>
+        </section>
+      </header>
+
+      <main id="workspace" class="workspace">
+        <aside id="filterDrawer" class="sidebar" aria-label="Filters">
+          <button id="filterDrawerToggle" class="filter-drawer-toggle" type="button" aria-expanded="true" aria-controls="filterDrawerContent">Filters</button>
+          <div id="filterDrawerContent" class="filter-drawer-content">
+          <h2 class="sidebar-title">Filters</h2>
+          <label class="search-field">
+            <span>Search</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Name, element, type">
+          </label>
+
+          <div class="filter-block">
+            <span class="filter-label">Advanced filters</span>
+            <div id="filterMatchSummary" class="filter-match-summary">0 / 0 figures</div>
+            <div id="advancedFilterRows" class="advanced-filter-rows"></div>
+            <div class="filter-add-row">
+              <select id="filterFieldSelect" aria-label="Filter type"></select>
+              <button id="addFilterButton" type="button">Add</button>
+            </div>
+          </div>
+
+          <div class="filter-block">
+            <span class="filter-label">Group by</span>
+            <select id="groupByFilter">
+              <option value="element">Element</option>
+              <option value="game">Game</option>
+              <option value="type">Type</option>
+              <option value="none">None</option>
+            </select>
+          </div>
+          </div>
+        </aside>
+
+        <section class="content" aria-label="Collection">
+          <div class="toolbar">
+            <div class="tabs" role="tablist" aria-label="Display mode">
+              <button class="tab active" data-view="owned" type="button">Owned</button>
+              <button class="tab" data-view="catalog" type="button">Catalog</button>
+              <button class="tab" data-view="swap-grid" type="button">SWAP Grid</button>
+              <button class="tab" data-view="upgrades" type="button">Upgrades</button>
+              <button class="tab" data-view="settings" type="button">Settings</button>
+            </div>
+            <div id="resultCount" class="result-count">0 results</div>
+          </div>
+
+          <div id="portalContents" class="portal-contents" hidden></div>
+          <div id="collectionGrid" class="collection-grid"></div>
+        </section>
+      </main>
+
+      <div id="scanVignette" class="scan-vignette" aria-hidden="true"></div>
+      <section id="scanReveal" class="scan-reveal" aria-live="polite" hidden>
+        <div id="elementParticles" class="element-particles" aria-hidden="true"></div>
+        <div id="scanRevealPortal" class="scan-reveal-portal" data-element="None">
+          <img id="scanRevealElement" class="scan-reveal-element" alt="">
+          <img id="scanRevealPortrait" class="scan-reveal-portrait" alt="">
+        </div>
+        <div class="scan-reveal-copy">
+          <span id="scanRevealLabel">New discovery!</span>
+          <div class="scan-reveal-name-row">
+            <img id="scanRevealLogoLeft" class="scan-reveal-name-logo" alt="">
+            <strong id="scanRevealName">Unknown Skylander</strong>
+            <img id="scanRevealLogoRight" class="scan-reveal-name-logo" alt="">
+          </div>
+          <small id="scanRevealDetails"></small>
+          <div id="scanRevealVillain" class="scan-reveal-villain" hidden>
+            <span class="scan-reveal-villain-label">Trapped inside</span>
+            <strong id="scanRevealVillainName"></strong>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <audio id="backgroundMusic" src="/assets/music/giants.mp3" preload="auto" loop></audio>
+    <script src="/app/build-config.js"></script>
+    <script src="/app/main.js"></script>
+  </body>
+</html>

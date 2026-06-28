@@ -1,0 +1,2137 @@
+﻿[
+    {
+        "id":  "horn-blast-whirlwind",
+        "variantOf":  "whirlwind",
+        "toyId":  0,
+        "toyIdHex":  "0x0000",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Horn Blast Whirlwind",
+        "character":  "Whirlwind",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightcore-warnado",
+        "variantOf":  "warnado",
+        "toyId":  2,
+        "toyIdHex":  "0x0002",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "LightCore Warnado",
+        "character":  "Warnado",
+        "element":  "Air",
+        "type":  "LightCore",
+        "game":  "SWAP Force",
+        "types":  [
+                      "LightCore",
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "knockout-terrafin",
+        "variantOf":  "terrafin",
+        "toyId":  5,
+        "toyIdHex":  "0x0005",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Knockout Terrafin",
+        "character":  "Terrafin",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "hyper-beam-prism-break",
+        "variantOf":  "prism-break",
+        "toyId":  7,
+        "toyIdHex":  "0x0007",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Hyper Beam Prism Break",
+        "character":  "Prism Break",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lava-barf-eruptor",
+        "variantOf":  "eruptor",
+        "toyId":  9,
+        "toyIdHex":  "0x0009",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Lava Barf Eruptor",
+        "character":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "volcanic-eruptor",
+        "variantOf":  "eruptor",
+        "toyId":  9,
+        "toyIdHex":  "0x0009",
+        "variantId":  11266,
+        "variantIdHex":  "0x2C02",
+        "name":  "Volcanic Eruptor",
+        "character":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Special",
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightcore-wham-shell",
+        "variantOf":  "wham-shell",
+        "toyId":  13,
+        "toyIdHex":  "0x000D",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "LightCore Wham-Shell",
+        "character":  "Wham-Shell",
+        "element":  "Water",
+        "type":  "LightCore",
+        "game":  "SWAP Force",
+        "types":  [
+                      "LightCore",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "anchors-away-gill-grunt",
+        "variantOf":  "gill-grunt",
+        "toyId":  14,
+        "toyIdHex":  "0x000E",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Anchors Away Gill Grunt",
+        "character":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "mega-ram-spyro",
+        "variantOf":  "spyro",
+        "toyId":  16,
+        "toyIdHex":  "0x0010",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Mega Ram Spyro",
+        "character":  "Spyro",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "dark-mega-ram-spyro",
+        "variantOf":  "spyro",
+        "toyId":  16,
+        "toyIdHex":  "0x0010",
+        "variantId":  11266,
+        "variantIdHex":  "0x2C02",
+        "name":  "Dark Mega Ram Spyro",
+        "character":  "Spyro",
+        "element":  "Magic",
+        "type":  "Dark",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Dark",
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "big-bang-trigger-happy",
+        "variantOf":  "trigger-happy",
+        "toyId":  19,
+        "toyIdHex":  "0x0013",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Big Bang Trigger Happy",
+        "character":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "springtime-trigger-happy",
+        "variantOf":  "trigger-happy",
+        "toyId":  19,
+        "toyIdHex":  "0x0013",
+        "variantId":  11266,
+        "variantIdHex":  "0x2C02",
+        "name":  "Springtime Trigger Happy",
+        "character":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Special",
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "flocked-springtime-trigger-happy",
+        "variantOf":  "trigger-happy",
+        "toyId":  19,
+        "toyIdHex":  "0x0013",
+        "variantId":  11266,
+        "variantIdHex":  "0x2C02",
+        "name":  "Flocked Springtime Trigger Happy",
+        "character":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "springtime-trigger-happy",
+        "types":  [
+                      "Chase Variant",
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "thorn-horn-camo",
+        "variantOf":  "camo",
+        "toyId":  24,
+        "toyIdHex":  "0x0018",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Thorn Horn Camo",
+        "character":  "Camo",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "ninja-stealth-elf",
+        "variantOf":  "stealth-elf",
+        "toyId":  26,
+        "toyIdHex":  "0x001A",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Ninja Stealth Elf",
+        "character":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "dark-ninja-stealth-elf",
+        "variantOf":  "stealth-elf",
+        "toyId":  26,
+        "toyIdHex":  "0x001A",
+        "variantId":  11266,
+        "variantIdHex":  "0x2C02",
+        "name":  "Dark Ninja Stealth Elf",
+        "character":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Dark",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Dark",
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "twin-blade-chop-chop",
+        "variantOf":  "chop-chop",
+        "toyId":  30,
+        "toyIdHex":  "0x001E",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Twin Blade Chop Chop",
+        "character":  "Chop Chop",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "green-chop-chop",
+        "variantOf":  "chop-chop",
+        "toyId":  30,
+        "toyIdHex":  "0x001E",
+        "variantId":  10262,
+        "variantIdHex":  "0x2816",
+        "name":  "Green Chop Chop",
+        "character":  "Chop Chop",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "twin-blade-chop-chop",
+        "types":  [
+                      "Chase Variant",
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "phantom-cynder",
+        "variantOf":  "cynder",
+        "toyId":  32,
+        "toyIdHex":  "0x0020",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Phantom Cynder",
+        "character":  "Cynder",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "turbo-jet-vac",
+        "variantOf":  "jet-vac",
+        "toyId":  100,
+        "toyIdHex":  "0x0064",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Turbo Jet-Vac",
+        "character":  "Jet-Vac",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightcore-flashwing",
+        "variantOf":  "flashwing",
+        "toyId":  103,
+        "toyIdHex":  "0x0067",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "LightCore Flashwing",
+        "character":  "Flashwing",
+        "element":  "Earth",
+        "type":  "LightCore",
+        "game":  "SWAP Force",
+        "types":  [
+                      "LightCore",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "fire-bone-hot-dog",
+        "variantOf":  "hot-dog",
+        "toyId":  105,
+        "toyIdHex":  "0x0069",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Fire Bone Hot Dog",
+        "character":  "Hot Dog",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "red-flame-frito-lay-fire-bone-hot-dog",
+        "variantOf":  "hot-dog",
+        "toyId":  105,
+        "toyIdHex":  "0x0069",
+        "variantId":  10266,
+        "variantIdHex":  "0x281A",
+        "name":  "Red Flame Frito-Lay Fire Bone Hot Dog",
+        "character":  "Hot Dog",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "fire-bone-hot-dog",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "green-flame-frito-lay-fire-bone-hot-dog",
+        "variantOf":  "hot-dog",
+        "toyId":  105,
+        "toyIdHex":  "0x0069",
+        "variantId":  10267,
+        "variantIdHex":  "0x281B",
+        "name":  "Green Flame Frito-Lay Fire Bone Hot Dog",
+        "character":  "Hot Dog",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "fire-bone-hot-dog",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "purple-flame-frito-lay-fire-bone-hot-dog",
+        "variantOf":  "hot-dog",
+        "toyId":  105,
+        "toyIdHex":  "0x0069",
+        "variantId":  10268,
+        "variantIdHex":  "0x281C",
+        "name":  "Purple Flame Frito-Lay Fire Bone Hot Dog",
+        "character":  "Hot Dog",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "fire-bone-hot-dog",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "blizzard-chill",
+        "variantOf":  "chill",
+        "toyId":  106,
+        "toyIdHex":  "0x006A",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Blizzard Chill",
+        "character":  "Chill",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "super-gulp-pop-fizz",
+        "variantOf":  "pop-fizz",
+        "toyId":  108,
+        "toyIdHex":  "0x006C",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Super Gulp Pop Fizz",
+        "character":  "Pop Fizz",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "heavy-duty-sprocket",
+        "variantOf":  "sprocket",
+        "toyId":  111,
+        "toyIdHex":  "0x006F",
+        "variantId":  10245,
+        "variantIdHex":  "0x2805",
+        "name":  "Heavy Duty Sprocket",
+        "character":  "Sprocket",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "heavy-metal-sprocket",
+        "variantOf":  "sprocket",
+        "toyId":  111,
+        "toyIdHex":  "0x006F",
+        "variantId":  10265,
+        "variantIdHex":  "0x2819",
+        "name":  "Heavy Metal Sprocket",
+        "character":  "Sprocket",
+        "element":  "Tech",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "heavy-duty-sprocket",
+        "types":  [
+                      "Chase Variant",
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "boom-jet-bottom-jet",
+        "toyId":  1000,
+        "toyIdHex":  "0x03E8",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Boom Jet - Bottom",
+        "character":  "Boom Jet",
+        "element":  "Air",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Jet"
+    },
+    {
+        "id":  "boom-jet-top-boom",
+        "toyId":  2000,
+        "toyIdHex":  "0x07D0",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Boom Jet - Top",
+        "character":  "Boom Jet",
+        "element":  "Air",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Boom"
+    },
+    {
+        "id":  "free-ranger-bottom-ranger",
+        "toyId":  1001,
+        "toyIdHex":  "0x03E9",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Free Ranger - Bottom",
+        "character":  "Free Ranger",
+        "element":  "Air",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Ranger"
+    },
+    {
+        "id":  "free-ranger-top-free",
+        "toyId":  2001,
+        "toyIdHex":  "0x07D1",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Free Ranger - Top",
+        "character":  "Free Ranger",
+        "element":  "Air",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Free"
+    },
+    {
+        "id":  "rubble-rouser-bottom-rouser",
+        "toyId":  1002,
+        "toyIdHex":  "0x03EA",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Rubble Rouser - Bottom",
+        "character":  "Rubble Rouser",
+        "element":  "Earth",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Rouser"
+    },
+    {
+        "id":  "rubble-rouser-top-rubble",
+        "toyId":  2002,
+        "toyIdHex":  "0x07D2",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Rubble Rouser - Top",
+        "character":  "Rubble Rouser",
+        "element":  "Earth",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Rubble"
+    },
+    {
+        "id":  "doom-stone-bottom-stone",
+        "toyId":  1003,
+        "toyIdHex":  "0x03EB",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Doom Stone - Bottom",
+        "character":  "Doom Stone",
+        "element":  "Earth",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Stone"
+    },
+    {
+        "id":  "doom-stone-top-doom",
+        "toyId":  2003,
+        "toyIdHex":  "0x07D3",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Doom Stone - Top",
+        "character":  "Doom Stone",
+        "element":  "Earth",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Doom"
+    },
+    {
+        "id":  "blast-zone-bottom-zone",
+        "toyId":  1004,
+        "toyIdHex":  "0x03EC",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Blast Zone - Bottom",
+        "character":  "Blast Zone",
+        "element":  "Fire",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Zone"
+    },
+    {
+        "id":  "blast-zone-top-blast",
+        "toyId":  2004,
+        "toyIdHex":  "0x07D4",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Blast Zone - Top",
+        "character":  "Blast Zone",
+        "element":  "Fire",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Blast"
+    },
+    {
+        "id":  "fire-kraken-bottom-kraken",
+        "toyId":  1005,
+        "toyIdHex":  "0x03ED",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Fire Kraken - Bottom",
+        "character":  "Fire Kraken",
+        "element":  "Fire",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Kraken"
+    },
+    {
+        "id":  "fire-kraken-top-fire",
+        "toyId":  2005,
+        "toyIdHex":  "0x07D5",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Fire Kraken - Top",
+        "character":  "Fire Kraken",
+        "element":  "Fire",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Fire"
+    },
+    {
+        "id":  "stink-bomb-bottom-bomb",
+        "toyId":  1006,
+        "toyIdHex":  "0x03EE",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Stink Bomb - Bottom",
+        "character":  "Stink Bomb",
+        "element":  "Life",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Bomb"
+    },
+    {
+        "id":  "gold-stink-bomb-bottom-bomb",
+        "variantOf":  "stink-bomb",
+        "toyId":  1006,
+        "toyIdHex":  "0x03EE",
+        "variantId":  8214,
+        "variantIdHex":  "0x2016",
+        "name":  "Gold Stink Bomb - Bottom",
+        "character":  "Stink Bomb",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ],
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Bomb",
+        "portrait":  "stink-bomb-bottom-bomb"
+    },
+    {
+        "id":  "stink-bomb-top-stink",
+        "toyId":  2006,
+        "toyIdHex":  "0x07D6",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Stink Bomb - Top",
+        "character":  "Stink Bomb",
+        "element":  "Life",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Stink"
+    },
+    {
+        "id":  "grilla-drilla-bottom-drilla",
+        "toyId":  1007,
+        "toyIdHex":  "0x03EF",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Grilla Drilla - Bottom",
+        "character":  "Grilla Drilla",
+        "element":  "Life",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Drilla"
+    },
+    {
+        "id":  "grilla-drilla-top-grilla",
+        "toyId":  2007,
+        "toyIdHex":  "0x07D7",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Grilla Drilla - Top",
+        "character":  "Grilla Drilla",
+        "element":  "Life",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Grilla"
+    },
+    {
+        "id":  "hoot-loop-bottom-loop",
+        "toyId":  1008,
+        "toyIdHex":  "0x03F0",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Hoot Loop - Bottom",
+        "character":  "Hoot Loop",
+        "element":  "Magic",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Loop"
+    },
+    {
+        "id":  "hoot-loop-top-hoot",
+        "toyId":  2008,
+        "toyIdHex":  "0x07D8",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Hoot Loop - Top",
+        "character":  "Hoot Loop",
+        "element":  "Magic",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Hoot"
+    },
+    {
+        "id":  "trap-shadow-bottom-shadow",
+        "toyId":  1009,
+        "toyIdHex":  "0x03F1",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Trap Shadow - Bottom",
+        "character":  "Trap Shadow",
+        "element":  "Magic",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Shadow"
+    },
+    {
+        "id":  "trap-shadow-top-trap",
+        "toyId":  2009,
+        "toyIdHex":  "0x07D9",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Trap Shadow - Top",
+        "character":  "Trap Shadow",
+        "element":  "Magic",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Trap"
+    },
+    {
+        "id":  "magna-charge-bottom-charge",
+        "toyId":  1010,
+        "toyIdHex":  "0x03F2",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Magna Charge - Bottom",
+        "character":  "Magna Charge",
+        "element":  "Tech",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Charge"
+    },
+    {
+        "id":  "magna-charge-top-magna",
+        "toyId":  2010,
+        "toyIdHex":  "0x07DA",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Magna Charge - Top",
+        "character":  "Magna Charge",
+        "element":  "Tech",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Magna"
+    },
+    {
+        "id":  "spy-rise-bottom-rise",
+        "toyId":  1011,
+        "toyIdHex":  "0x03F3",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Spy Rise - Bottom",
+        "character":  "Spy Rise",
+        "element":  "Tech",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Rise"
+    },
+    {
+        "id":  "spy-rise-top-spy",
+        "toyId":  2011,
+        "toyIdHex":  "0x07DB",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Spy Rise - Top",
+        "character":  "Spy Rise",
+        "element":  "Tech",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Spy"
+    },
+    {
+        "id":  "night-shift-bottom-shift",
+        "toyId":  1012,
+        "toyIdHex":  "0x03F4",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Night Shift - Bottom",
+        "character":  "Night Shift",
+        "element":  "Undead",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Shift"
+    },
+    {
+        "id":  "night-shift-top-night",
+        "toyId":  2012,
+        "toyIdHex":  "0x07DC",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Night Shift - Top",
+        "character":  "Night Shift",
+        "element":  "Undead",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Night"
+    },
+    {
+        "id":  "rattle-shake-bottom-shake",
+        "toyId":  1013,
+        "toyIdHex":  "0x03F5",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Rattle Shake - Bottom",
+        "character":  "Rattle Shake",
+        "element":  "Undead",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Shake"
+    },
+    {
+        "id":  "rattle-shake-top-rattle",
+        "toyId":  2013,
+        "toyIdHex":  "0x07DD",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Rattle Shake - Top",
+        "character":  "Rattle Shake",
+        "element":  "Undead",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Rattle"
+    },
+    {
+        "id":  "freeze-blade-bottom-blade",
+        "toyId":  1014,
+        "toyIdHex":  "0x03F6",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Freeze Blade - Bottom",
+        "character":  "Freeze Blade",
+        "element":  "Water",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Blade"
+    },
+    {
+        "id":  "freeze-blade-top-freeze",
+        "toyId":  2014,
+        "toyIdHex":  "0x07DE",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Freeze Blade - Top",
+        "character":  "Freeze Blade",
+        "element":  "Water",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Freeze"
+    },
+    {
+        "id":  "wash-buckler-bottom-buckler",
+        "toyId":  1015,
+        "toyIdHex":  "0x03F7",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Wash Buckler - Bottom",
+        "character":  "Wash Buckler",
+        "element":  "Water",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Buckler"
+    },
+    {
+        "id":  "wash-buckler-top-wash",
+        "toyId":  2015,
+        "toyIdHex":  "0x07DF",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Wash Buckler - Top",
+        "character":  "Wash Buckler",
+        "element":  "Water",
+        "type":  "SWAP Force",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Wash"
+    },
+    {
+        "id":  "legendary-free-ranger-bottom-ranger",
+        "variantOf":  "free-ranger",
+        "toyId":  1001,
+        "toyIdHex":  "0x03E9",
+        "variantId":  9219,
+        "variantIdHex":  "0x2403",
+        "name":  "Legendary Free Ranger - Bottom",
+        "character":  "Free Ranger",
+        "element":  "Air",
+        "type":  "Legendary",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Ranger",
+        "types":  [
+                      "Legendary",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "legendary-free-ranger-top-free",
+        "variantOf":  "free-ranger",
+        "toyId":  2001,
+        "toyIdHex":  "0x07D1",
+        "variantId":  9219,
+        "variantIdHex":  "0x2403",
+        "name":  "Legendary Free Ranger - Top",
+        "character":  "Free Ranger",
+        "element":  "Air",
+        "type":  "Legendary",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Free",
+        "types":  [
+                      "Legendary",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "bronze-doom-stone-bottom-stone",
+        "variantOf":  "doom-stone",
+        "toyId":  1003,
+        "toyIdHex":  "0x03EB",
+        "variantId":  8214,
+        "variantIdHex":  "0x2016",
+        "name":  "Bronze Doom Stone - Bottom",
+        "character":  "Doom Stone",
+        "element":  "Earth",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Stone",
+        "portrait":  "doom-stone-bottom-stone",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "gold-doom-stone-top-doom",
+        "variantOf":  "doom-stone",
+        "toyId":  2003,
+        "toyIdHex":  "0x07D3",
+        "variantId":  8214,
+        "variantIdHex":  "0x2016",
+        "name":  "Gold Doom Stone - Top",
+        "character":  "Doom Stone",
+        "element":  "Earth",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Doom",
+        "portrait":  "doom-stone-top-doom",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "dark-blast-zone-bottom-zone",
+        "variantOf":  "blast-zone",
+        "toyId":  1004,
+        "toyIdHex":  "0x03EC",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Dark Blast Zone - Bottom",
+        "character":  "Blast Zone",
+        "element":  "Fire",
+        "type":  "Dark",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Zone",
+        "types":  [
+                      "Dark",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "dark-blast-zone-top-blast",
+        "variantOf":  "blast-zone",
+        "toyId":  2004,
+        "toyIdHex":  "0x07D4",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Dark Blast Zone - Top",
+        "character":  "Blast Zone",
+        "element":  "Fire",
+        "type":  "Dark",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Blast",
+        "types":  [
+                      "Dark",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "gold-fire-kraken-bottom-kraken",
+        "variantOf":  "fire-kraken",
+        "toyId":  1005,
+        "toyIdHex":  "0x03ED",
+        "variantId":  8196,
+        "variantIdHex":  "0x2004",
+        "name":  "Gold Fire Kraken - Bottom",
+        "character":  "Fire Kraken",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Kraken",
+        "portrait":  "fire-kraken-bottom-kraken",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "gold-fire-kraken-top-fire",
+        "variantOf":  "fire-kraken",
+        "toyId":  2005,
+        "toyIdHex":  "0x07D5",
+        "variantId":  8196,
+        "variantIdHex":  "0x2004",
+        "name":  "Gold Fire Kraken - Top",
+        "character":  "Fire Kraken",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Fire",
+        "portrait":  "fire-kraken-top-fire",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "jade-fire-kraken-bottom-kraken",
+        "variantOf":  "fire-kraken",
+        "toyId":  1005,
+        "toyIdHex":  "0x03ED",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Jade Fire Kraken - Bottom",
+        "character":  "Fire Kraken",
+        "element":  "Fire",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Kraken",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "jade-fire-kraken-top-fire",
+        "variantOf":  "fire-kraken",
+        "toyId":  2005,
+        "toyIdHex":  "0x07D5",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Jade Fire Kraken - Top",
+        "character":  "Fire Kraken",
+        "element":  "Fire",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Fire",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "silver-stink-bomb-top-stink",
+        "variantOf":  "stink-bomb",
+        "toyId":  2006,
+        "toyIdHex":  "0x07D6",
+        "variantId":  8214,
+        "variantIdHex":  "0x2016",
+        "name":  "Silver Stink Bomb - Top",
+        "character":  "Stink Bomb",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Stink",
+        "portrait":  "stink-bomb-top-stink",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "enchanted-hoot-loop-bottom-loop",
+        "variantOf":  "hoot-loop",
+        "toyId":  1008,
+        "toyIdHex":  "0x03F0",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Enchanted Hoot Loop - Bottom",
+        "character":  "Hoot Loop",
+        "element":  "Magic",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Loop",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "enchanted-hoot-loop-top-hoot",
+        "variantOf":  "hoot-loop",
+        "toyId":  2008,
+        "toyIdHex":  "0x07D8",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Enchanted Hoot Loop - Top",
+        "character":  "Hoot Loop",
+        "element":  "Magic",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Hoot",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "silver-trap-shadow-bottom-shadow",
+        "variantOf":  "trap-shadow",
+        "toyId":  1009,
+        "toyIdHex":  "0x03F1",
+        "variantId":  8214,
+        "variantIdHex":  "0x2016",
+        "name":  "Silver Trap Shadow - Bottom",
+        "character":  "Trap Shadow",
+        "element":  "Magic",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Shadow",
+        "portrait":  "trap-shadow-bottom-shadow",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "bronze-trap-shadow-top-trap",
+        "variantOf":  "trap-shadow",
+        "toyId":  2009,
+        "toyIdHex":  "0x07D9",
+        "variantId":  8214,
+        "variantIdHex":  "0x2016",
+        "name":  "Bronze Trap Shadow - Top",
+        "character":  "Trap Shadow",
+        "element":  "Magic",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Trap",
+        "portrait":  "trap-shadow-top-trap",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "nitro-magna-charge-bottom-charge",
+        "variantOf":  "magna-charge",
+        "toyId":  1010,
+        "toyIdHex":  "0x03F2",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Nitro Magna Charge - Bottom",
+        "character":  "Magna Charge",
+        "element":  "Tech",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Charge",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "nitro-magna-charge-top-magna",
+        "variantOf":  "magna-charge",
+        "toyId":  2010,
+        "toyIdHex":  "0x07DA",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Nitro Magna Charge - Top",
+        "character":  "Magna Charge",
+        "element":  "Tech",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Magna",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "legendary-night-shift-bottom-shift",
+        "variantOf":  "night-shift",
+        "toyId":  1012,
+        "toyIdHex":  "0x03F4",
+        "variantId":  9219,
+        "variantIdHex":  "0x2403",
+        "name":  "Legendary Night Shift - Bottom",
+        "character":  "Night Shift",
+        "element":  "Undead",
+        "type":  "Legendary",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Shift",
+        "types":  [
+                      "Legendary",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "legendary-night-shift-top-night",
+        "variantOf":  "night-shift",
+        "toyId":  2012,
+        "toyIdHex":  "0x07DC",
+        "variantId":  9219,
+        "variantIdHex":  "0x2403",
+        "name":  "Legendary Night Shift - Top",
+        "character":  "Night Shift",
+        "element":  "Undead",
+        "type":  "Legendary",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Night",
+        "types":  [
+                      "Legendary",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "quickdraw-rattle-shake-bottom-shake",
+        "variantOf":  "rattle-shake",
+        "toyId":  1013,
+        "toyIdHex":  "0x03F5",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Quickdraw Rattle Shake - Bottom",
+        "character":  "Rattle Shake",
+        "element":  "Undead",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Shake",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "quickdraw-rattle-shake-top-rattle",
+        "variantOf":  "rattle-shake",
+        "toyId":  2013,
+        "toyIdHex":  "0x07DD",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Quickdraw Rattle Shake - Top",
+        "character":  "Rattle Shake",
+        "element":  "Undead",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Rattle",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "nitro-freeze-blade-bottom-blade",
+        "variantOf":  "freeze-blade",
+        "toyId":  1014,
+        "toyIdHex":  "0x03F6",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Nitro Freeze Blade - Bottom",
+        "character":  "Freeze Blade",
+        "element":  "Water",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Blade",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "nitro-freeze-blade-top-freeze",
+        "variantOf":  "freeze-blade",
+        "toyId":  2014,
+        "toyIdHex":  "0x07DE",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Nitro Freeze Blade - Top",
+        "character":  "Freeze Blade",
+        "element":  "Water",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Freeze",
+        "types":  [
+                      "Special",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "color-shift-wash-buckler-bottom-buckler",
+        "variantOf":  "wash-buckler",
+        "toyId":  1015,
+        "toyIdHex":  "0x03F7",
+        "variantId":  8216,
+        "variantIdHex":  "0x2018",
+        "name":  "Color Shift Wash Buckler - Bottom",
+        "character":  "Wash Buckler",
+        "element":  "Water",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Buckler",
+        "portrait":  "wash-buckler-bottom-buckler",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "color-shift-wash-buckler-top-wash",
+        "variantOf":  "wash-buckler",
+        "toyId":  2015,
+        "toyIdHex":  "0x07DF",
+        "variantId":  8216,
+        "variantIdHex":  "0x2018",
+        "name":  "Color Shift Wash Buckler - Top",
+        "character":  "Wash Buckler",
+        "element":  "Water",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Wash",
+        "portrait":  "wash-buckler-top-wash",
+        "types":  [
+                      "Chase Variant",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "dark-wash-buckler-bottom-buckler",
+        "variantOf":  "wash-buckler",
+        "toyId":  1015,
+        "toyIdHex":  "0x03F7",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Dark Wash Buckler - Bottom",
+        "character":  "Wash Buckler",
+        "element":  "Water",
+        "type":  "Dark",
+        "game":  "SWAP Force",
+        "swapPart":  "bottom",
+        "halfName":  "Buckler",
+        "types":  [
+                      "Dark",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "dark-wash-buckler-top-wash",
+        "variantOf":  "wash-buckler",
+        "toyId":  2015,
+        "toyIdHex":  "0x07DF",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Dark Wash Buckler - Top",
+        "character":  "Wash Buckler",
+        "element":  "Water",
+        "type":  "Dark",
+        "game":  "SWAP Force",
+        "swapPart":  "top",
+        "halfName":  "Wash",
+        "types":  [
+                      "Dark",
+                      "SWAP Force"
+                  ]
+    },
+    {
+        "id":  "scratch",
+        "toyId":  3000,
+        "toyIdHex":  "0x0BB8",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Scratch",
+        "character":  "Scratch",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "pop-thorn",
+        "toyId":  3001,
+        "toyIdHex":  "0x0BB9",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Pop Thorn",
+        "character":  "Pop Thorn",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "slobber-tooth",
+        "toyId":  3002,
+        "toyIdHex":  "0x0BBA",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Slobber Tooth",
+        "character":  "Slobber Tooth",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "dark-slobber-tooth",
+        "variantOf":  "slobber-tooth",
+        "toyId":  3002,
+        "toyIdHex":  "0x0BBA",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Dark Slobber Tooth",
+        "character":  "Slobber Tooth",
+        "element":  "Earth",
+        "type":  "Dark",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Dark",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "scorp",
+        "toyId":  3003,
+        "toyIdHex":  "0x0BBB",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Scorp",
+        "character":  "Scorp",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "green-scorp",
+        "variantOf":  "scorp",
+        "toyId":  3003,
+        "toyIdHex":  "0x0BBB",
+        "variantId":  8214,
+        "variantIdHex":  "0x2016",
+        "name":  "Green Scorp",
+        "character":  "Scorp",
+        "element":  "Earth",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "scorp",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "fryno",
+        "toyId":  3004,
+        "toyIdHex":  "0x0BBC",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Fryno",
+        "character":  "Fryno",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "smolderdash",
+        "toyId":  3005,
+        "toyIdHex":  "0x0BBD",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Smolderdash",
+        "character":  "Smolderdash",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightcore-smolderdash",
+        "variantOf":  "smolderdash",
+        "toyId":  3005,
+        "toyIdHex":  "0x0BBD",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "LightCore Smolderdash",
+        "character":  "Smolderdash",
+        "element":  "Fire",
+        "type":  "LightCore",
+        "game":  "SWAP Force",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "snowderdash",
+        "variantOf":  "smolderdash",
+        "toyId":  3005,
+        "toyIdHex":  "0x0BBD",
+        "variantId":  8729,
+        "variantIdHex":  "0x2219",
+        "name":  "Snowderdash",
+        "character":  "Smolderdash",
+        "element":  "Fire",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "lightcore-smolderdash",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "bumble-blast",
+        "toyId":  3006,
+        "toyIdHex":  "0x0BBE",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Bumble Blast",
+        "character":  "Bumble Blast",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightcore-bumble-blast",
+        "variantOf":  "bumble-blast",
+        "toyId":  3006,
+        "toyIdHex":  "0x0BBE",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "LightCore Bumble Blast",
+        "character":  "Bumble Blast",
+        "element":  "Life",
+        "type":  "LightCore",
+        "game":  "SWAP Force",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "jolly-bumble-blast",
+        "variantOf":  "bumble-blast",
+        "toyId":  3006,
+        "toyIdHex":  "0x0BBE",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Jolly Bumble Blast",
+        "character":  "Bumble Blast",
+        "element":  "Life",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Special",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "zoo-lou",
+        "toyId":  3007,
+        "toyIdHex":  "0x0BBF",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Zoo Lou",
+        "character":  "Zoo Lou",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-zoo-lou",
+        "variantOf":  "zoo-lou",
+        "toyId":  3007,
+        "toyIdHex":  "0x0BBF",
+        "variantId":  9219,
+        "variantIdHex":  "0x2403",
+        "name":  "Legendary Zoo Lou",
+        "character":  "Zoo Lou",
+        "element":  "Life",
+        "type":  "Legendary",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "dune-bug",
+        "toyId":  3008,
+        "toyIdHex":  "0x0BC0",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Dune Bug",
+        "character":  "Dune Bug",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "red-dune-bug",
+        "variantOf":  "dune-bug",
+        "toyId":  3008,
+        "toyIdHex":  "0x0BC0",
+        "variantId":  8196,
+        "variantIdHex":  "0x2004",
+        "name":  "Red Dune Bug",
+        "character":  "Dune Bug",
+        "element":  "Magic",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "dune-bug",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "star-strike",
+        "toyId":  3009,
+        "toyIdHex":  "0x0BC1",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Star Strike",
+        "character":  "Star Strike",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightcore-star-strike",
+        "variantOf":  "star-strike",
+        "toyId":  3009,
+        "toyIdHex":  "0x0BC1",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "LightCore Star Strike",
+        "character":  "Star Strike",
+        "element":  "Magic",
+        "type":  "LightCore",
+        "game":  "SWAP Force",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "enchanted-star-strike",
+        "variantOf":  "star-strike",
+        "toyId":  3009,
+        "toyIdHex":  "0x0BC1",
+        "variantId":  9730,
+        "variantIdHex":  "0x2602",
+        "name":  "Enchanted Star Strike",
+        "character":  "Star Strike",
+        "element":  "Magic",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Special",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "countdown",
+        "toyId":  3010,
+        "toyIdHex":  "0x0BC2",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Countdown",
+        "character":  "Countdown",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightcore-countdown",
+        "variantOf":  "countdown",
+        "toyId":  3010,
+        "toyIdHex":  "0x0BC2",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "LightCore Countdown",
+        "character":  "Countdown",
+        "element":  "Tech",
+        "type":  "LightCore",
+        "game":  "SWAP Force",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "kickoff-countdown",
+        "variantOf":  "countdown",
+        "toyId":  3010,
+        "toyIdHex":  "0x0BC2",
+        "variantId":  9218,
+        "variantIdHex":  "0x2402",
+        "name":  "Kickoff Countdown",
+        "character":  "Countdown",
+        "element":  "Tech",
+        "type":  "Special",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Special",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "wind-up",
+        "toyId":  3011,
+        "toyIdHex":  "0x0BC3",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Wind-Up",
+        "character":  "Wind-Up",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "roller-brawl",
+        "toyId":  3012,
+        "toyIdHex":  "0x0BC4",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Roller Brawl",
+        "character":  "Roller Brawl",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "grim-creeper",
+        "toyId":  3013,
+        "toyIdHex":  "0x0BC5",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Grim Creeper",
+        "character":  "Grim Creeper",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "lightcore-grim-creeper",
+        "variantOf":  "grim-creeper",
+        "toyId":  3013,
+        "toyIdHex":  "0x0BC5",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "LightCore Grim Creeper",
+        "character":  "Grim Creeper",
+        "element":  "Undead",
+        "type":  "LightCore",
+        "game":  "SWAP Force",
+        "types":  [
+                      "LightCore",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-grim-creeper",
+        "variantOf":  "grim-creeper",
+        "toyId":  3013,
+        "toyIdHex":  "0x0BC5",
+        "variantId":  9731,
+        "variantIdHex":  "0x2603",
+        "name":  "Legendary Grim Creeper",
+        "character":  "Grim Creeper",
+        "element":  "Undead",
+        "type":  "Legendary",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "rip-tide",
+        "toyId":  3014,
+        "toyIdHex":  "0x0BC6",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Rip Tide",
+        "character":  "Rip Tide",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "green-rip-tide",
+        "variantOf":  "rip-tide",
+        "toyId":  3014,
+        "toyIdHex":  "0x0BC6",
+        "variantId":  8214,
+        "variantIdHex":  "0x2016",
+        "name":  "Green Rip Tide",
+        "character":  "Rip Tide",
+        "element":  "Water",
+        "type":  "Chase Variant",
+        "game":  "SWAP Force",
+        "portrait":  "rip-tide",
+        "types":  [
+                      "Chase Variant",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "punk-shock",
+        "toyId":  3015,
+        "toyIdHex":  "0x0BC7",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Punk Shock",
+        "character":  "Punk Shock",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "battle-hammer",
+        "toyId":  3200,
+        "toyIdHex":  "0x0C80",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Battle Hammer",
+        "type":  "Magic Item",
+        "game":  "SWAP Force"
+    },
+    {
+        "id":  "sky-diamond",
+        "toyId":  3201,
+        "toyIdHex":  "0x0C81",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Sky Diamond",
+        "type":  "Magic Item",
+        "game":  "SWAP Force"
+    },
+    {
+        "id":  "platinum-sheep",
+        "toyId":  3202,
+        "toyIdHex":  "0x0C82",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Platinum Sheep",
+        "type":  "Magic Item",
+        "game":  "SWAP Force"
+    },
+    {
+        "id":  "groove-machine",
+        "toyId":  3203,
+        "toyIdHex":  "0x0C83",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Groove Machine",
+        "type":  "Magic Item",
+        "game":  "SWAP Force"
+    },
+    {
+        "id":  "ufo-hat",
+        "toyId":  3204,
+        "toyIdHex":  "0x0C84",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "UFO Hat",
+        "type":  "Magic Item",
+        "game":  "SWAP Force"
+    },
+    {
+        "id":  "sheep-wreck-island",
+        "toyId":  3300,
+        "toyIdHex":  "0x0CE4",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Sheep Wreck Island",
+        "type":  "Adventure Pack",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "tower-of-time",
+        "toyId":  3301,
+        "toyIdHex":  "0x0CE5",
+        "variantId":  8192,
+        "variantIdHex":  "0x2000",
+        "name":  "Tower of Time",
+        "type":  "Adventure Pack",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "fiery-forge",
+        "variantOf":  "tower-of-time",
+        "toyId":  3302,
+        "toyIdHex":  "0x0CE6",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "Fiery Forge",
+        "type":  "Magic Item",
+        "game":  "SWAP Force",
+        "types":  [
+                      "Magic Item",
+                      "Adventure Pack"
+                  ]
+    },
+    {
+        "id":  "arkeyan-crossbow",
+        "toyId":  3303,
+        "toyIdHex":  "0x0CE7",
+        "variantId":  8710,
+        "variantIdHex":  "0x2206",
+        "name":  "Arkeyan Crossbow",
+        "type":  "Magic Item",
+        "game":  "SWAP Force"
+    }
+]

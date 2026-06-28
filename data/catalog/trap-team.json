@@ -1,0 +1,2102 @@
+﻿[
+    {
+        "id":  "full-blast-jet-vac",
+        "variantOf":  "jet-vac",
+        "toyId":  100,
+        "toyIdHex":  "0x0064",
+        "variantId":  14337,
+        "variantIdHex":  "0x3801",
+        "name":  "Full Blast Jet-Vac",
+        "character":  "Jet-Vac",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "tidal-wave-gill-grunt",
+        "variantOf":  "gill-grunt",
+        "toyId":  14,
+        "toyIdHex":  "0x000E",
+        "variantId":  14337,
+        "variantIdHex":  "0x3801",
+        "name":  "Tidal Wave Gill Grunt",
+        "character":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 4",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "fizzy-frenzy-pop-fizz",
+        "variantOf":  "pop-fizz",
+        "toyId":  108,
+        "toyIdHex":  "0x006C",
+        "variantId":  14337,
+        "variantIdHex":  "0x3801",
+        "name":  "Fizzy Frenzy Pop Fizz",
+        "character":  "Pop Fizz",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "love-potion-pop-fizz",
+        "variantOf":  "fizzy-frenzy-pop-fizz",
+        "toyId":  108,
+        "toyIdHex":  "0x006C",
+        "variantId":  15362,
+        "variantIdHex":  "0x3C02",
+        "name":  "Love Potion Pop Fizz",
+        "character":  "Pop Fizz",
+        "element":  "Magic",
+        "type":  "Special",
+        "game":  "Trap Team",
+        "types":  [
+                      "Special",
+                      "Series 3",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "sure-shot-shroomboom",
+        "variantOf":  "shroomboom",
+        "toyId":  113,
+        "toyIdHex":  "0x0071",
+        "variantId":  14337,
+        "variantIdHex":  "0x3801",
+        "name":  "Sure Shot Shroomboom",
+        "character":  "Shroomboom",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "hog-wild-fryno",
+        "variantOf":  "fryno",
+        "toyId":  3004,
+        "toyIdHex":  "0x0BBC",
+        "variantId":  14337,
+        "variantIdHex":  "0x3801",
+        "name":  "Hog Wild Fryno",
+        "character":  "Fryno",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 2",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "fling-kong",
+        "toyId":  452,
+        "toyIdHex":  "0x01C4",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Fling Kong",
+        "character":  "Fling Kong",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "blades",
+        "toyId":  453,
+        "toyIdHex":  "0x01C5",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Blades",
+        "character":  "Blades",
+        "element":  "Air",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "fist-bump",
+        "toyId":  456,
+        "toyIdHex":  "0x01C8",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Fist Bump",
+        "character":  "Fist Bump",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "rocky-roll",
+        "toyId":  457,
+        "toyIdHex":  "0x01C9",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Rocky Roll",
+        "character":  "Rocky Roll",
+        "element":  "Earth",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "trail-blazer",
+        "toyId":  460,
+        "toyIdHex":  "0x01CC",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Trail Blazer",
+        "character":  "Trail Blazer",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "torch",
+        "toyId":  461,
+        "toyIdHex":  "0x01CD",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Torch",
+        "character":  "Torch",
+        "element":  "Fire",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "flip-wreck",
+        "toyId":  464,
+        "toyIdHex":  "0x01D0",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Flip Wreck",
+        "character":  "Flip Wreck",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "echo",
+        "toyId":  465,
+        "toyIdHex":  "0x01D1",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Echo",
+        "character":  "Echo",
+        "element":  "Water",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "deja-vu",
+        "toyId":  468,
+        "toyIdHex":  "0x01D4",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Déjà Vu",
+        "character":  "Déjà Vu",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "cobra-cadabra",
+        "toyId":  469,
+        "toyIdHex":  "0x01D5",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Cobra Cadabra",
+        "character":  "Cobra Cadabra",
+        "element":  "Magic",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "chopper",
+        "toyId":  472,
+        "toyIdHex":  "0x01D8",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Chopper",
+        "character":  "Chopper",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "tread-head",
+        "toyId":  473,
+        "toyIdHex":  "0x01D9",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Tread Head",
+        "character":  "Tread Head",
+        "element":  "Tech",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "food-fight",
+        "toyId":  476,
+        "toyIdHex":  "0x01DC",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Food Fight",
+        "character":  "Food Fight",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "high-five",
+        "toyId":  477,
+        "toyIdHex":  "0x01DD",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "High Five",
+        "character":  "High Five",
+        "element":  "Life",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "bat-spin",
+        "toyId":  480,
+        "toyIdHex":  "0x01E0",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Bat Spin",
+        "character":  "Bat Spin",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "funny-bone",
+        "toyId":  481,
+        "toyIdHex":  "0x01E1",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Funny Bone",
+        "character":  "Funny Bone",
+        "element":  "Undead",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "spotlight",
+        "toyId":  483,
+        "toyIdHex":  "0x01E3",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Spotlight",
+        "character":  "Spotlight",
+        "element":  "Light",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "blackout",
+        "toyId":  485,
+        "toyIdHex":  "0x01E5",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Blackout",
+        "character":  "Blackout",
+        "element":  "Dark",
+        "type":  "Core",
+        "game":  "Trap Team",
+        "types":  [
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "gusto",
+        "toyId":  450,
+        "toyIdHex":  "0x01C2",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Gusto",
+        "character":  "Gusto",
+        "element":  "Air",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "thunderbolt",
+        "toyId":  451,
+        "toyIdHex":  "0x01C3",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Thunderbolt",
+        "character":  "Thunderbolt",
+        "element":  "Air",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "wallop",
+        "toyId":  454,
+        "toyIdHex":  "0x01C6",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Wallop",
+        "character":  "Wallop",
+        "element":  "Earth",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "head-rush",
+        "toyId":  455,
+        "toyIdHex":  "0x01C7",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Head Rush",
+        "character":  "Head Rush",
+        "element":  "Earth",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "wildfire",
+        "toyId":  458,
+        "toyIdHex":  "0x01CA",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Wildfire",
+        "character":  "Wildfire",
+        "element":  "Fire",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "ka-boom",
+        "toyId":  459,
+        "toyIdHex":  "0x01CB",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Ka-Boom",
+        "character":  "Ka-Boom",
+        "element":  "Fire",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "snap-shot",
+        "toyId":  462,
+        "toyIdHex":  "0x01CE",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Snap Shot",
+        "character":  "Snap Shot",
+        "element":  "Water",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "lob-star",
+        "toyId":  463,
+        "toyIdHex":  "0x01CF",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Lob-Star",
+        "character":  "Lob-Star",
+        "element":  "Water",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "blastermind",
+        "toyId":  466,
+        "toyIdHex":  "0x01D2",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Blastermind",
+        "character":  "Blastermind",
+        "element":  "Magic",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "enigma",
+        "toyId":  467,
+        "toyIdHex":  "0x01D3",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Enigma",
+        "character":  "Enigma",
+        "element":  "Magic",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "jawbreaker",
+        "toyId":  470,
+        "toyIdHex":  "0x01D6",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Jawbreaker",
+        "character":  "Jawbreaker",
+        "element":  "Tech",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "gearshift",
+        "toyId":  471,
+        "toyIdHex":  "0x01D7",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Gearshift",
+        "character":  "Gearshift",
+        "element":  "Tech",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "bushwhack",
+        "toyId":  474,
+        "toyIdHex":  "0x01DA",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Bushwhack",
+        "character":  "Bushwhack",
+        "element":  "Life",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "tuff-luck",
+        "toyId":  475,
+        "toyIdHex":  "0x01DB",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Tuff Luck",
+        "character":  "Tuff Luck",
+        "element":  "Life",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "krypt-king",
+        "toyId":  478,
+        "toyIdHex":  "0x01DE",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Krypt King",
+        "character":  "Krypt King",
+        "element":  "Undead",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "short-cut",
+        "toyId":  479,
+        "toyIdHex":  "0x01DF",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Short Cut",
+        "character":  "Short Cut",
+        "element":  "Undead",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "knight-light",
+        "toyId":  482,
+        "toyIdHex":  "0x01E2",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Knight Light",
+        "character":  "Knight Light",
+        "element":  "Light",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "knight-mare",
+        "toyId":  484,
+        "toyIdHex":  "0x01E4",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Knight Mare",
+        "character":  "Knight Mare",
+        "element":  "Dark",
+        "type":  "Trap Master",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "legendary-blades",
+        "variantOf":  "blades",
+        "toyId":  453,
+        "toyIdHex":  "0x01C5",
+        "variantId":  13315,
+        "variantIdHex":  "0x3403",
+        "name":  "Legendary Blades",
+        "character":  "Blades",
+        "element":  "Air",
+        "type":  "Legendary",
+        "game":  "Trap Team",
+        "types":  [
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-bushwhack",
+        "variantOf":  "bushwhack",
+        "toyId":  474,
+        "toyIdHex":  "0x01DA",
+        "variantId":  13315,
+        "variantIdHex":  "0x3403",
+        "name":  "Legendary Bushwhack",
+        "character":  "Bushwhack",
+        "element":  "Life",
+        "type":  "Legendary",
+        "game":  "Trap Team",
+        "types":  [
+                      "Legendary",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "legendary-deja-vu",
+        "variantOf":  "deja-vu",
+        "toyId":  468,
+        "toyIdHex":  "0x01D4",
+        "variantId":  13315,
+        "variantIdHex":  "0x3403",
+        "name":  "Legendary Déjà Vu",
+        "character":  "Déjà Vu",
+        "element":  "Magic",
+        "type":  "Legendary",
+        "game":  "Trap Team",
+        "types":  [
+                      "Legendary",
+                      "Series 1",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "legendary-jawbreaker",
+        "variantOf":  "jawbreaker",
+        "toyId":  470,
+        "toyIdHex":  "0x01D6",
+        "variantId":  13315,
+        "variantIdHex":  "0x3403",
+        "name":  "Legendary Jawbreaker",
+        "character":  "Jawbreaker",
+        "element":  "Tech",
+        "type":  "Legendary",
+        "game":  "Trap Team",
+        "types":  [
+                      "Legendary",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "dark-wildfire",
+        "variantOf":  "wildfire",
+        "toyId":  458,
+        "toyIdHex":  "0x01CA",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Dark Wildfire",
+        "character":  "Wildfire",
+        "element":  "Fire",
+        "type":  "Dark",
+        "game":  "Trap Team",
+        "types":  [
+                      "Dark",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "dark-snap-shot",
+        "variantOf":  "snap-shot",
+        "toyId":  462,
+        "toyIdHex":  "0x01CE",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Dark Snap Shot",
+        "character":  "Snap Shot",
+        "element":  "Water",
+        "type":  "Dark",
+        "game":  "Trap Team",
+        "types":  [
+                      "Dark",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "dark-food-fight",
+        "variantOf":  "food-fight",
+        "toyId":  476,
+        "toyIdHex":  "0x01DC",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Dark Food Fight",
+        "character":  "Food Fight",
+        "element":  "Life",
+        "type":  "Dark",
+        "game":  "Trap Team",
+        "types":  [
+                      "Dark",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eons-elite-whirlwind",
+        "variantOf":  "whirlwind",
+        "toyId":  0,
+        "toyIdHex":  "0x0000",
+        "variantId":  14352,
+        "variantIdHex":  "0x3810",
+        "name":  "Eon\u0027s Elite Whirlwind",
+        "character":  "Whirlwind",
+        "element":  "Air",
+        "type":  "Eon\u0027s Elite",
+        "game":  "Trap Team",
+        "types":  [
+                      "Eon\u0027s Elite",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eons-elite-terrafin",
+        "variantOf":  "terrafin",
+        "toyId":  5,
+        "toyIdHex":  "0x0005",
+        "variantId":  14352,
+        "variantIdHex":  "0x3810",
+        "name":  "Eon\u0027s Elite Terrafin",
+        "character":  "Terrafin",
+        "element":  "Earth",
+        "type":  "Eon\u0027s Elite",
+        "game":  "Trap Team",
+        "types":  [
+                      "Eon\u0027s Elite",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eons-elite-eruptor",
+        "variantOf":  "eruptor",
+        "toyId":  9,
+        "toyIdHex":  "0x0009",
+        "variantId":  14352,
+        "variantIdHex":  "0x3810",
+        "name":  "Eon\u0027s Elite Eruptor",
+        "character":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Eon\u0027s Elite",
+        "game":  "Trap Team",
+        "types":  [
+                      "Eon\u0027s Elite",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eons-elite-gill-grunt",
+        "variantOf":  "gill-grunt",
+        "toyId":  14,
+        "toyIdHex":  "0x000E",
+        "variantId":  14352,
+        "variantIdHex":  "0x3810",
+        "name":  "Eon\u0027s Elite Gill Grunt",
+        "character":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Eon\u0027s Elite",
+        "game":  "Trap Team",
+        "types":  [
+                      "Eon\u0027s Elite",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eons-elite-spyro",
+        "variantOf":  "spyro",
+        "toyId":  16,
+        "toyIdHex":  "0x0010",
+        "variantId":  14352,
+        "variantIdHex":  "0x3810",
+        "name":  "Eon\u0027s Elite Spyro",
+        "character":  "Spyro",
+        "element":  "Magic",
+        "type":  "Eon\u0027s Elite",
+        "game":  "Trap Team",
+        "types":  [
+                      "Eon\u0027s Elite",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eons-elite-trigger-happy",
+        "variantOf":  "trigger-happy",
+        "toyId":  19,
+        "toyIdHex":  "0x0013",
+        "variantId":  14352,
+        "variantIdHex":  "0x3810",
+        "name":  "Eon\u0027s Elite Trigger Happy",
+        "character":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Eon\u0027s Elite",
+        "game":  "Trap Team",
+        "types":  [
+                      "Eon\u0027s Elite",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eons-elite-stealth-elf",
+        "variantOf":  "stealth-elf",
+        "toyId":  26,
+        "toyIdHex":  "0x001A",
+        "variantId":  14352,
+        "variantIdHex":  "0x3810",
+        "name":  "Eon\u0027s Elite Stealth Elf",
+        "character":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Eon\u0027s Elite",
+        "game":  "Trap Team",
+        "types":  [
+                      "Eon\u0027s Elite",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "eons-elite-chop-chop",
+        "variantOf":  "chop-chop",
+        "toyId":  30,
+        "toyIdHex":  "0x001E",
+        "variantId":  14352,
+        "variantIdHex":  "0x3810",
+        "name":  "Eon\u0027s Elite Chop Chop",
+        "character":  "Chop Chop",
+        "element":  "Undead",
+        "type":  "Eon\u0027s Elite",
+        "game":  "Trap Team",
+        "types":  [
+                      "Eon\u0027s Elite",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "nitro-head-rush",
+        "variantOf":  "head-rush",
+        "toyId":  455,
+        "toyIdHex":  "0x01C7",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Nitro Head Rush",
+        "character":  "Head Rush",
+        "element":  "Earth",
+        "type":  "Special",
+        "game":  "Trap Team",
+        "types":  [
+                      "Special",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "nitro-krypt-king",
+        "variantOf":  "krypt-king",
+        "toyId":  478,
+        "toyIdHex":  "0x01DE",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Nitro Krypt King",
+        "character":  "Krypt King",
+        "element":  "Undead",
+        "type":  "Special",
+        "game":  "Trap Team",
+        "types":  [
+                      "Special",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "winterfest-lob-star",
+        "variantOf":  "lob-star",
+        "toyId":  463,
+        "toyIdHex":  "0x01CF",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Winterfest Lob-Star",
+        "character":  "Lob-Star",
+        "element":  "Water",
+        "type":  "Special",
+        "game":  "Trap Team",
+        "types":  [
+                      "Special",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "king-cobra-cadabra",
+        "variantOf":  "cobra-cadabra",
+        "toyId":  469,
+        "toyIdHex":  "0x01D5",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "King Cobra Cadabra",
+        "character":  "Cobra Cadabra",
+        "element":  "Magic",
+        "type":  "Special",
+        "game":  "Trap Team",
+        "types":  [
+                      "Special",
+                      "Core"
+                  ]
+    },
+    {
+        "id":  "thunderbolt-clear",
+        "variantOf":  "thunderbolt",
+        "toyId":  451,
+        "toyIdHex":  "0x01C3",
+        "variantId":  12317,
+        "variantIdHex":  "0x301D",
+        "name":  "Clear Thunderbolt",
+        "character":  "Thunderbolt",
+        "element":  "Air",
+        "type":  "Chase Variant",
+        "game":  "Trap Team",
+        "portrait":  "thunderbolt",
+        "types":  [
+                      "Chase Variant",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "tuff-luck-clear",
+        "variantOf":  "tuff-luck",
+        "toyId":  475,
+        "toyIdHex":  "0x01DB",
+        "variantId":  12317,
+        "variantIdHex":  "0x301D",
+        "name":  "Clear Tuff Luck",
+        "character":  "Tuff Luck",
+        "element":  "Life",
+        "type":  "Chase Variant",
+        "game":  "Trap Team",
+        "portrait":  "tuff-luck",
+        "types":  [
+                      "Chase Variant",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "short-cut-clear",
+        "variantOf":  "short-cut",
+        "toyId":  479,
+        "toyIdHex":  "0x01DF",
+        "variantId":  12317,
+        "variantIdHex":  "0x301D",
+        "name":  "Clear Short Cut",
+        "character":  "Short Cut",
+        "element":  "Undead",
+        "type":  "Chase Variant",
+        "game":  "Trap Team",
+        "portrait":  "short-cut",
+        "types":  [
+                      "Chase Variant",
+                      "Trap Master"
+                  ]
+    },
+    {
+        "id":  "hand-of-fate",
+        "toyId":  230,
+        "toyIdHex":  "0x00E6",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Hand of Fate",
+        "type":  "Magic Item",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "piggy-bank",
+        "toyId":  231,
+        "toyIdHex":  "0x00E7",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Piggy Bank",
+        "type":  "Magic Item",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "rocket-ram",
+        "toyId":  232,
+        "toyIdHex":  "0x00E8",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Rocket Ram",
+        "type":  "Magic Item",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "tiki-speaky",
+        "toyId":  233,
+        "toyIdHex":  "0x00E9",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Tiki Speaky",
+        "type":  "Magic Item",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "legendary-hand-of-fate",
+        "variantOf":  "hand-of-fate",
+        "toyId":  230,
+        "toyIdHex":  "0x00E6",
+        "variantId":  13315,
+        "variantIdHex":  "0x3403",
+        "name":  "Legendary Hand of Fate",
+        "type":  "Magic Item",
+        "game":  "Trap Team",
+        "types":  [
+                      "Legendary",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "mirror-of-mystery",
+        "toyId":  305,
+        "toyIdHex":  "0x0131",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Mirror of Mystery",
+        "type":  "Adventure Pack",
+        "game":  "Trap Team",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "nightmare-express",
+        "toyId":  306,
+        "toyIdHex":  "0x0132",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Nightmare Express",
+        "type":  "Adventure Pack",
+        "game":  "Trap Team",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "sunscraper-spire",
+        "toyId":  307,
+        "toyIdHex":  "0x0133",
+        "variantId":  12806,
+        "variantIdHex":  "0x3206",
+        "name":  "Sunscraper Spire",
+        "type":  "Adventure Pack",
+        "game":  "Trap Team",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "midnight-museum",
+        "variantOf":  "midnight-museum",
+        "toyId":  308,
+        "toyIdHex":  "0x0134",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Midnight Museum",
+        "type":  "Adventure Pack",
+        "game":  "Trap Team",
+        "types":  [
+                      "Adventure Pack",
+                      "Magic Item"
+                  ]
+    },
+    {
+        "id":  "bop",
+        "toyId":  502,
+        "toyIdHex":  "0x01F6",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Bop",
+        "companionCharacter":  "Bash",
+        "element":  "Earth",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "spry",
+        "toyId":  503,
+        "toyIdHex":  "0x01F7",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Spry",
+        "companionCharacter":  "Spyro",
+        "element":  "Magic",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "hijinx",
+        "toyId":  504,
+        "toyIdHex":  "0x01F8",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Hijinx",
+        "companionCharacter":  "Hex",
+        "element":  "Undead",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "breeze",
+        "toyId":  506,
+        "toyIdHex":  "0x01FA",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Breeze",
+        "companionCharacter":  "Whirlwind",
+        "element":  "Air",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "weeruptor",
+        "toyId":  507,
+        "toyIdHex":  "0x01FB",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Weeruptor",
+        "companionCharacter":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "pet-vac",
+        "toyId":  508,
+        "toyIdHex":  "0x01FC",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Pet-Vac",
+        "companionCharacter":  "Jet-Vac",
+        "element":  "Air",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "small-fry",
+        "toyId":  509,
+        "toyIdHex":  "0x01FD",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Small Fry",
+        "companionCharacter":  "Hot Head",
+        "element":  "Fire",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "drobit",
+        "toyId":  510,
+        "toyIdHex":  "0x01FE",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Drobit",
+        "companionCharacter":  "Drobot",
+        "element":  "Tech",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "terrabite-mini",
+        "variantOf":  "terrabite",
+        "toyId":  505,
+        "toyIdHex":  "0x01F9",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Terrabite",
+        "companionCharacter":  "Terrafin",
+        "element":  "Earth",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "gill-runt-mini",
+        "variantOf":  "gill-runt",
+        "toyId":  511,
+        "toyIdHex":  "0x01FF",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Gill Runt",
+        "companionCharacter":  "Gill Grunt",
+        "element":  "Water",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "trigger-snappy-mini",
+        "variantOf":  "trigger-snappy",
+        "toyId":  519,
+        "toyIdHex":  "0x0207",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Trigger Snappy",
+        "companionCharacter":  "Trigger Happy",
+        "element":  "Tech",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "whisper-elf-mini",
+        "variantOf":  "whisper-elf",
+        "toyId":  526,
+        "toyIdHex":  "0x020E",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Whisper Elf",
+        "companionCharacter":  "Stealth Elf",
+        "element":  "Life",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "barkley-mini",
+        "variantOf":  "barkley",
+        "toyId":  540,
+        "toyIdHex":  "0x021C",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Barkley",
+        "companionCharacter":  "Tree Rex",
+        "element":  "Life",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "thumpling-mini",
+        "variantOf":  "thumpling",
+        "toyId":  541,
+        "toyIdHex":  "0x021D",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Thumpling",
+        "companionCharacter":  "Thumpback",
+        "element":  "Water",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "mini-jini-mini",
+        "variantOf":  "mini-jini",
+        "toyId":  542,
+        "toyIdHex":  "0x021E",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Mini-Jini",
+        "companionCharacter":  "Ninjini",
+        "element":  "Magic",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "eye-small-mini",
+        "variantOf":  "eye-small",
+        "toyId":  543,
+        "toyIdHex":  "0x021F",
+        "variantId":  12288,
+        "variantIdHex":  "0x3000",
+        "name":  "Eye-Small",
+        "companionCharacter":  "Eye-Brawl",
+        "element":  "Undead",
+        "type":  "Mini",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "eggsellent-weeruptor",
+        "variantOf":  "weeruptor",
+        "toyId":  507,
+        "toyIdHex":  "0x01FB",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Eggsellent Weeruptor",
+        "companionCharacter":  "Eruptor",
+        "element":  "Fire",
+        "type":  "Special",
+        "game":  "Trap Team",
+        "types":  [
+                      "Special",
+                      "Mini"
+                  ]
+    },
+    {
+        "id":  "power-punch-pet-vac",
+        "variantOf":  "pet-vac",
+        "toyId":  508,
+        "toyIdHex":  "0x01FC",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Power Punch Pet-Vac",
+        "companionCharacter":  "Jet-Vac",
+        "element":  "Air",
+        "type":  "Special",
+        "game":  "Trap Team",
+        "types":  [
+                      "Special",
+                      "Mini"
+                  ]
+    },
+    {
+        "id":  "gnarly-barkley",
+        "variantOf":  "barkley-mini",
+        "toyId":  540,
+        "toyIdHex":  "0x021C",
+        "variantId":  13314,
+        "variantIdHex":  "0x3402",
+        "name":  "Gnarly Barkley",
+        "companionCharacter":  "Tree Rex",
+        "element":  "Life",
+        "type":  "Special",
+        "game":  "Trap Team",
+        "types":  [
+                      "Special",
+                      "Mini"
+                  ]
+    },
+    {
+        "id":  "biters-bane",
+        "toyId":  210,
+        "toyIdHex":  "0x00D2",
+        "variantId":  12290,
+        "variantIdHex":  "0x3002",
+        "name":  "Biter\u0027s Bane",
+        "element":  "Magic",
+        "trapShape":  "Log Holder",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "sorcerous-skull",
+        "toyId":  210,
+        "toyIdHex":  "0x00D2",
+        "variantId":  12296,
+        "variantIdHex":  "0x3008",
+        "name":  "Sorcerous Skull",
+        "element":  "Magic",
+        "trapShape":  "Skull",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "axe-of-illusion",
+        "toyId":  210,
+        "toyIdHex":  "0x00D2",
+        "variantId":  12299,
+        "variantIdHex":  "0x300B",
+        "name":  "Axe of Illusion",
+        "element":  "Magic",
+        "trapShape":  "Axe",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "arcane-hourglass",
+        "toyId":  210,
+        "toyIdHex":  "0x00D2",
+        "variantId":  12302,
+        "variantIdHex":  "0x300E",
+        "name":  "Arcane Hourglass",
+        "element":  "Magic",
+        "trapShape":  "Hourglass",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "spell-slapper",
+        "toyId":  210,
+        "toyIdHex":  "0x00D2",
+        "variantId":  12306,
+        "variantIdHex":  "0x3012",
+        "name":  "Spell Slapper",
+        "element":  "Magic",
+        "trapShape":  "Totem",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "rune-rocket",
+        "toyId":  210,
+        "toyIdHex":  "0x00D2",
+        "variantId":  12309,
+        "variantIdHex":  "0x3015",
+        "name":  "Rune Rocket",
+        "element":  "Magic",
+        "trapShape":  "Rocket",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "tidal-tiki",
+        "toyId":  211,
+        "toyIdHex":  "0x00D3",
+        "variantId":  12289,
+        "variantIdHex":  "0x3001",
+        "name":  "Tidal Tiki",
+        "element":  "Water",
+        "trapShape":  "Tiki",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "wet-walter",
+        "toyId":  211,
+        "toyIdHex":  "0x00D3",
+        "variantId":  12290,
+        "variantIdHex":  "0x3002",
+        "name":  "Wet Walter",
+        "element":  "Water",
+        "trapShape":  "Log Holder",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "flood-flask",
+        "toyId":  211,
+        "toyIdHex":  "0x00D3",
+        "variantId":  12294,
+        "variantIdHex":  "0x3006",
+        "name":  "Flood Flask",
+        "element":  "Water",
+        "trapShape":  "Jughead",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "legendary-flood-flask",
+        "variantOf":  "flood-flask",
+        "toyId":  211,
+        "toyIdHex":  "0x00D3",
+        "variantId":  13318,
+        "variantIdHex":  "0x3406",
+        "name":  "Legendary Flood Flask",
+        "element":  "Water",
+        "trapShape":  "Jughead",
+        "type":  "Trap",
+        "game":  "Trap Team",
+        "types":  [
+                      "Legendary",
+                      "Trap"
+                  ]
+    },
+    {
+        "id":  "soaking-staff",
+        "toyId":  211,
+        "toyIdHex":  "0x00D3",
+        "variantId":  12295,
+        "variantIdHex":  "0x3007",
+        "name":  "Soaking Staff",
+        "element":  "Water",
+        "trapShape":  "Angel",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "aqua-axe",
+        "toyId":  211,
+        "toyIdHex":  "0x00D3",
+        "variantId":  12299,
+        "variantIdHex":  "0x300B",
+        "name":  "Aqua Axe",
+        "element":  "Water",
+        "trapShape":  "Axe",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "frost-helm",
+        "toyId":  211,
+        "toyIdHex":  "0x00D3",
+        "variantId":  12310,
+        "variantIdHex":  "0x3016",
+        "name":  "Frost Helm",
+        "element":  "Water",
+        "trapShape":  "Flying Helmet",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "breezy-bird",
+        "toyId":  212,
+        "toyIdHex":  "0x00D4",
+        "variantId":  12291,
+        "variantIdHex":  "0x3003",
+        "name":  "Breezy Bird",
+        "element":  "Air",
+        "trapShape":  "Toucan",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "drafty-decanter",
+        "toyId":  212,
+        "toyIdHex":  "0x00D4",
+        "variantId":  12294,
+        "variantIdHex":  "0x3006",
+        "name":  "Drafty Decanter",
+        "element":  "Air",
+        "trapShape":  "Jughead",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "tempest-timer",
+        "toyId":  212,
+        "toyIdHex":  "0x00D4",
+        "variantId":  12302,
+        "variantIdHex":  "0x300E",
+        "name":  "Tempest Timer",
+        "element":  "Air",
+        "trapShape":  "Hourglass",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "cloudy-cobra",
+        "toyId":  212,
+        "toyIdHex":  "0x00D4",
+        "variantId":  12304,
+        "variantIdHex":  "0x3010",
+        "name":  "Cloudy Cobra",
+        "element":  "Air",
+        "trapShape":  "Snake",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "storm-warning",
+        "toyId":  212,
+        "toyIdHex":  "0x00D4",
+        "variantId":  12305,
+        "variantIdHex":  "0x3011",
+        "name":  "Storm Warning",
+        "element":  "Air",
+        "trapShape":  "Screamer",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "cyclone-sabre",
+        "toyId":  212,
+        "toyIdHex":  "0x00D4",
+        "variantId":  12312,
+        "variantIdHex":  "0x3018",
+        "name":  "Cyclone Sabre",
+        "element":  "Air",
+        "trapShape":  "Sword",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "spirit-sphere",
+        "toyId":  213,
+        "toyIdHex":  "0x00D5",
+        "variantId":  12292,
+        "variantIdHex":  "0x3004",
+        "name":  "Spirit Sphere",
+        "element":  "Undead",
+        "trapShape":  "Orb",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "legendary-spirit-sphere",
+        "variantOf":  "spirit-sphere",
+        "toyId":  213,
+        "toyIdHex":  "0x00D5",
+        "variantId":  13316,
+        "variantIdHex":  "0x3404",
+        "name":  "Legendary Spirit Sphere",
+        "element":  "Undead",
+        "trapShape":  "Orb",
+        "type":  "Trap",
+        "game":  "Trap Team",
+        "types":  [
+                      "Legendary",
+                      "Trap"
+                  ]
+    },
+    {
+        "id":  "spectral-skull",
+        "toyId":  213,
+        "toyIdHex":  "0x00D5",
+        "variantId":  12296,
+        "variantIdHex":  "0x3008",
+        "name":  "Spectral Skull",
+        "element":  "Undead",
+        "trapShape":  "Skull",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "legendary-spectral-skull",
+        "variantOf":  "spectral-skull",
+        "toyId":  213,
+        "toyIdHex":  "0x00D5",
+        "variantId":  13320,
+        "variantIdHex":  "0x3408",
+        "name":  "Legendary Spectral Skull",
+        "element":  "Undead",
+        "trapShape":  "Skull",
+        "type":  "Trap",
+        "game":  "Trap Team",
+        "types":  [
+                      "Legendary",
+                      "Trap"
+                  ]
+    },
+    {
+        "id":  "haunted-hatchet",
+        "toyId":  213,
+        "toyIdHex":  "0x00D5",
+        "variantId":  12299,
+        "variantIdHex":  "0x300B",
+        "name":  "Haunted Hatchet",
+        "element":  "Undead",
+        "trapShape":  "Axe",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "grim-gripper",
+        "toyId":  213,
+        "toyIdHex":  "0x00D5",
+        "variantId":  12300,
+        "variantIdHex":  "0x300C",
+        "name":  "Grim Gripper",
+        "element":  "Undead",
+        "trapShape":  "Hand",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "spooky-snake",
+        "toyId":  213,
+        "toyIdHex":  "0x00D5",
+        "variantId":  12304,
+        "variantIdHex":  "0x3010",
+        "name":  "Spooky Snake",
+        "element":  "Undead",
+        "trapShape":  "Snake",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "dream-piercer",
+        "toyId":  213,
+        "toyIdHex":  "0x00D5",
+        "variantId":  12311,
+        "variantIdHex":  "0x3017",
+        "name":  "Dream Piercer",
+        "element":  "Undead",
+        "trapShape":  "Captain\u0027s Hat",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "tech-totem",
+        "toyId":  214,
+        "toyIdHex":  "0x00D6",
+        "variantId":  12289,
+        "variantIdHex":  "0x3001",
+        "name":  "Tech Totem",
+        "element":  "Tech",
+        "trapShape":  "Tiki",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "automatic-angel",
+        "toyId":  214,
+        "toyIdHex":  "0x00D6",
+        "variantId":  12295,
+        "variantIdHex":  "0x3007",
+        "name":  "Automatic Angel",
+        "element":  "Tech",
+        "trapShape":  "Angel",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "factory-flower",
+        "toyId":  214,
+        "toyIdHex":  "0x00D6",
+        "variantId":  12297,
+        "variantIdHex":  "0x3009",
+        "name":  "Factory Flower",
+        "element":  "Tech",
+        "trapShape":  "Scepter",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "grabbing-gadget",
+        "toyId":  214,
+        "toyIdHex":  "0x00D6",
+        "variantId":  12300,
+        "variantIdHex":  "0x300C",
+        "name":  "Grabbing Gadget",
+        "element":  "Tech",
+        "trapShape":  "Hand",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "makers-mana",
+        "toyId":  214,
+        "toyIdHex":  "0x00D6",
+        "variantId":  12310,
+        "variantIdHex":  "0x3016",
+        "name":  "Makers Mana",
+        "element":  "Tech",
+        "trapShape":  "Flying Helmet",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "topsy-techy",
+        "toyId":  214,
+        "toyIdHex":  "0x00D6",
+        "variantId":  12314,
+        "variantIdHex":  "0x301A",
+        "name":  "Topsy Techy",
+        "element":  "Tech",
+        "trapShape":  "Handstand",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "eternal-flame",
+        "toyId":  215,
+        "toyIdHex":  "0x00D7",
+        "variantId":  12293,
+        "variantIdHex":  "0x3005",
+        "name":  "Eternal Flame",
+        "element":  "Fire",
+        "trapShape":  "Torch",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "fire-flower",
+        "toyId":  215,
+        "toyIdHex":  "0x00D7",
+        "variantId":  12297,
+        "variantIdHex":  "0x3009",
+        "name":  "Fire Flower",
+        "element":  "Fire",
+        "trapShape":  "Scepter",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "scorching-stopper",
+        "toyId":  215,
+        "toyIdHex":  "0x00D7",
+        "variantId":  12305,
+        "variantIdHex":  "0x3011",
+        "name":  "Scorching Stopper",
+        "element":  "Fire",
+        "trapShape":  "Screamer",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "searing-spinner",
+        "toyId":  215,
+        "toyIdHex":  "0x00D7",
+        "variantId":  12306,
+        "variantIdHex":  "0x3012",
+        "name":  "Searing Spinner",
+        "element":  "Fire",
+        "trapShape":  "Totem",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "spark-spear",
+        "toyId":  215,
+        "toyIdHex":  "0x00D7",
+        "variantId":  12311,
+        "variantIdHex":  "0x3017",
+        "name":  "Spark Spear",
+        "element":  "Fire",
+        "trapShape":  "Captain\u0027s Hat",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "blazing-belch",
+        "toyId":  215,
+        "toyIdHex":  "0x00D7",
+        "variantId":  12315,
+        "variantIdHex":  "0x301B",
+        "name":  "Blazing Belch",
+        "element":  "Fire",
+        "trapShape":  "Yawn",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "rock-hawk",
+        "toyId":  216,
+        "toyIdHex":  "0x00D8",
+        "variantId":  12291,
+        "variantIdHex":  "0x3003",
+        "name":  "Rock Hawk",
+        "element":  "Earth",
+        "trapShape":  "Toucan",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "banded-boulder",
+        "toyId":  216,
+        "toyIdHex":  "0x00D8",
+        "variantId":  12292,
+        "variantIdHex":  "0x3004",
+        "name":  "Banded Boulder",
+        "element":  "Earth",
+        "trapShape":  "Orb",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "slag-hammer",
+        "toyId":  216,
+        "toyIdHex":  "0x00D8",
+        "variantId":  12298,
+        "variantIdHex":  "0x300A",
+        "name":  "Slag Hammer",
+        "element":  "Earth",
+        "trapShape":  "Hammer",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "dust-of-time",
+        "toyId":  216,
+        "toyIdHex":  "0x00D8",
+        "variantId":  12302,
+        "variantIdHex":  "0x300E",
+        "name":  "Dust of Time",
+        "element":  "Earth",
+        "trapShape":  "Hourglass",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "spinning-sandstorm",
+        "toyId":  216,
+        "toyIdHex":  "0x00D8",
+        "variantId":  12306,
+        "variantIdHex":  "0x3012",
+        "name":  "Spinning Sandstorm",
+        "element":  "Earth",
+        "trapShape":  "Totem",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "rubble-trouble",
+        "toyId":  216,
+        "toyIdHex":  "0x00D8",
+        "variantId":  12314,
+        "variantIdHex":  "0x301A",
+        "name":  "Rubble Trouble",
+        "element":  "Earth",
+        "trapShape":  "Handstand",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "easter-bunny-earth-trap",
+        "variantOf":  "rubble-trouble",
+        "toyId":  216,
+        "toyIdHex":  "0x00D8",
+        "variantId":  12314,
+        "variantIdHex":  "0x301A",
+        "name":  "Easter Bunny Earth Trap",
+        "element":  "Earth",
+        "trapShape":  "Handstand",
+        "type":  "Chase Variant",
+        "game":  "Trap Team",
+        "types":  [
+                      "Chase Variant",
+                      "Trap"
+                  ]
+    },
+    {
+        "id":  "oak-eagle",
+        "toyId":  217,
+        "toyIdHex":  "0x00D9",
+        "variantId":  12291,
+        "variantIdHex":  "0x3003",
+        "name":  "Oak Eagle",
+        "element":  "Life",
+        "trapShape":  "Toucan",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "emerald-energy",
+        "toyId":  217,
+        "toyIdHex":  "0x00D9",
+        "variantId":  12293,
+        "variantIdHex":  "0x3005",
+        "name":  "Emerald Energy",
+        "element":  "Life",
+        "trapShape":  "Torch",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "weed-whacker",
+        "toyId":  217,
+        "toyIdHex":  "0x00D9",
+        "variantId":  12298,
+        "variantIdHex":  "0x300A",
+        "name":  "Weed Whacker",
+        "element":  "Life",
+        "trapShape":  "Hammer",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "seed-serpent",
+        "toyId":  217,
+        "toyIdHex":  "0x00D9",
+        "variantId":  12304,
+        "variantIdHex":  "0x3010",
+        "name":  "Seed Serpent",
+        "element":  "Life",
+        "trapShape":  "Snake",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "jade-blade",
+        "toyId":  217,
+        "toyIdHex":  "0x00D9",
+        "variantId":  12312,
+        "variantIdHex":  "0x3018",
+        "name":  "Jade Blade",
+        "element":  "Life",
+        "trapShape":  "Sword",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "shrub-shrieker",
+        "toyId":  217,
+        "toyIdHex":  "0x00D9",
+        "variantId":  12315,
+        "variantIdHex":  "0x301B",
+        "name":  "Shrub Shrieker",
+        "element":  "Life",
+        "trapShape":  "Yawn",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "shadow-spider",
+        "toyId":  218,
+        "toyIdHex":  "0x00DA",
+        "variantId":  12308,
+        "variantIdHex":  "0x3014",
+        "name":  "Shadow Spider",
+        "element":  "Dark",
+        "trapShape":  "Spider",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "dark-dagger",
+        "toyId":  218,
+        "toyIdHex":  "0x00DA",
+        "variantId":  12312,
+        "variantIdHex":  "0x3018",
+        "name":  "Dark Dagger",
+        "element":  "Dark",
+        "trapShape":  "Sword",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "ghastly-grimace",
+        "toyId":  218,
+        "toyIdHex":  "0x00DA",
+        "variantId":  12314,
+        "variantIdHex":  "0x301A",
+        "name":  "Ghastly Grimace",
+        "element":  "Dark",
+        "trapShape":  "Handstand",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "heavenly-hawk",
+        "toyId":  219,
+        "toyIdHex":  "0x00DB",
+        "variantId":  12303,
+        "variantIdHex":  "0x300F",
+        "name":  "Heavenly Hawk",
+        "element":  "Light",
+        "trapShape":  "Hawk",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "shining-ship",
+        "toyId":  219,
+        "toyIdHex":  "0x00DB",
+        "variantId":  12309,
+        "variantIdHex":  "0x3015",
+        "name":  "Shining Ship",
+        "element":  "Light",
+        "trapShape":  "Rocket",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "beam-scream",
+        "toyId":  219,
+        "toyIdHex":  "0x00DB",
+        "variantId":  12315,
+        "variantIdHex":  "0x301B",
+        "name":  "Beam Scream",
+        "element":  "Light",
+        "trapShape":  "Yawn",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "kaos-trap",
+        "toyId":  220,
+        "toyIdHex":  "0x00DC",
+        "variantId":  12318,
+        "variantIdHex":  "0x301E",
+        "name":  "Kaos Trap",
+        "trapShape":  "Kaos",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "ultimate-kaos-trap",
+        "variantOf":  "kaos-trap",
+        "toyId":  220,
+        "toyIdHex":  "0x00DC",
+        "variantId":  13599,
+        "variantIdHex":  "0x351F",
+        "name":  "Ultimate Kaos Trap",
+        "trapShape":  "Kaos",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    },
+    {
+        "id":  "ultimate-kaos-trap-fixed",
+        "variantOf":  "kaos-trap",
+        "toyId":  220,
+        "toyIdHex":  "0x00DC",
+        "variantId":  13343,
+        "variantIdHex":  "0x341F",
+        "name":  "Ultimate Kaos Trap",
+        "trapShape":  "Kaos",
+        "type":  "Trap",
+        "game":  "Trap Team"
+    }
+]
