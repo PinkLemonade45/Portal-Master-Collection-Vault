@@ -26,6 +26,15 @@ Villain/trap display support exists in the codebase, but villains are currently 
 
 Portal support depends on the USB driver exposed by Windows. HID and WinUSB portal paths are both handled by the desktop app.
 
+Current portals supported are as follows:
+
+- Spyro's Adventure (PS3, WiiU)
+- Giants (PS3, WiiU)
+- Swap Force (PS3, WiiU, Xbox 360)
+- Trap Team (PS3, WiiU)
+- Superchargers (PS3, WiiU)
+- Imaginators (PS3, WiiU)
+
 ## Running A Release Build
 
 The release build is produced at:
