@@ -1,12 +1,27 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
-CMakeUserPresets.json
+# Build output
+[Bb]uild/
+dist/
+desktop/**/bin/
+desktop/**/obj/
+
+# Local .NET/NuGet caches
+.dotnet-home/
+.nuget/
+.cache/
+TestResults/
+*.nupkg
+*.snupkg
+*.binlog
+*.log
+
+# Local runtime data
+desktop/**/bin/**/data/debug/
+desktop/**/bin/**/data/*.backup-*.json
+desktop/**/bin/**/data/*debug*.log
+
+# IDE/OS noise
+.vs/
+.vscode/
+*.user
+Thumbs.db
+desktop.ini
